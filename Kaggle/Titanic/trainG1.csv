@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Cabin Category,Cabin Count,SurName,Title,Name,ClassEmbSur,Ticket Group,Family Group,Ticket Size,Family Size
+494,0,1,male,71,0,0,PC 17609,49.5042,C,,,Artagaveytia,Mr,Ramon,1CArtagaveytia,,,1,1
+701,1,1,female,18,1,0,PC 17757,227.525,C,C,2,Astor,Mrs,John Jacob (Madeleine Talmadge Force),1CAstor,Ticket,,4,1
+370,1,1,female,24,0,0,PC 17477,69.3,C,B,1,Aubart,Mme,Leontine Pauline,1CAubart,Ticket,,2,1
+119,0,1,male,24,0,1,PC 17558,247.5208,C,B,2,Baxter,Mr,Quigg Edmond,1CBaxter,Ticket,Family,2,2
+300,1,1,female,50,0,1,PC 17558,247.5208,C,B,2,Baxter,Mrs,James (Helene DeLaudeniere Chaput),1CBaxter,Ticket,Family,2,2
+219,1,1,female,32,0,0,11813,76.2917,C,D,1,Bazzani,Miss,Albina,1CBazzani,,,1,1
+890,1,1,male,26,0,0,111369,30,C,C,1,Behr,Mr,Karl Howell,1CBehr,,,1,1
+381,1,1,female,42,0,0,PC 17757,227.525,C,,,Bidois,Miss,Rosalie,1CBidois,Ticket,,4,1
+292,1,1,female,19,1,0,11967,91.0792,C,B,1,Bishop,Mrs,Dickinson H (Helen Walton),1CBishop,Ticket,Family,2,2
+485,1,1,male,25,1,0,11967,91.0792,C,B,1,Bishop,Mr,Dickinson H,1CBishop,Ticket,Family,2,2
+210,1,1,male,40,0,0,112277,31,C,A,1,Blank,Mr,Henry,1CBlank,,,1,1
+767,0,1,male,,0,0,112379,39.6,C,,,Brewe,Dr,Arthur Jackson,1CBrewe,,,1,1
+195,1,1,female,44,0,0,PC 17610,27.7208,C,B,1,Brown,Mrs,James Joseph (Margaret Tobin),1CBrown,,,1,1
+338,1,1,female,41,0,0,16966,134.5,C,E,1,Burns,Miss,Elizabeth Margaret,1CBurns,Ticket,,2,1
+680,1,1,male,36,0,1,PC 17755,512.3292,C,B,3,Cardeza,Mr,Thomas Drake Martinez,1CCardeza,Ticket,,3,1
+836,1,1,female,39,1,1,PC 17756,83.1583,C,E,1,Compton,Miss,Sara Rebecca,1CCompton,,,1,1
+2,1,1,female,38,1,0,PC 17599,71.2833,C,C,1,Cumings,Mrs,John Bradley (Florence Briggs Thayer),1CCumings,,,1,1
+545,0,1,male,50,1,0,PC 17761,106.425,C,C,1,Douglas,Mr,Walter Donald,1CDouglas,Ticket,,2,1
+557,1,1,female,48,1,0,11755,39.6,C,A,1,Duff Gordon,Lady,"(Lucille Christiana Sutherland) (""Mrs Morgan"")",1CDuff Gordon,,Family,1,2
+600,1,1,male,49,1,0,PC 17485,56.9292,C,A,1,Duff Gordon,Sir,"Cosmo Edmund (""Mr Morgan"")",1CDuff Gordon,Ticket,Family,2,2
+717,1,1,female,38,0,0,PC 17757,227.525,C,C,1,Endres,Miss,Caroline Louise,1CEndres,Ticket,,4,1
+497,1,1,female,54,1,0,36947,78.2667,C,D,1,Eustis,Miss,Elizabeth Mussey,1CEustis,Ticket,,2,1
+307,1,1,female,,0,0,17421,110.8833,C,,,Fleming,Miss,Margaret,1CFleming,Ticket,,4,1
+453,0,1,male,30,0,0,113051,27.75,C,C,1,Foreman,Mr,Benjamin Laventall,1CForeman,,,1,1
+310,1,1,female,30,0,0,PC 17485,56.9292,C,E,1,Francatelli,Miss,Laura Mabel,1CFrancatelli,Ticket,,2,1
+540,1,1,female,22,0,2,13568,49.5,C,B,1,Frolicher,Miss,Hedwig Margaritha,1CFrolicher,,,1,1
+588,1,1,male,60,1,1,13567,79.2,C,B,1,Frolicher-Stehli,Mr,Maxmillian,1CFrolicher-Stehli,,,1,1
+140,0,1,male,24,0,0,PC 17593,79.2,C,B,1,Giglio,Mr,Victor,1CGiglio,Ticket,,2,1
+454,1,1,male,49,1,0,17453,89.1042,C,C,1,Goldenberg,Mr,Samuel L,1CGoldenberg,Ticket,Family,2,2
+850,1,1,female,,1,0,17453,89.1042,C,C,1,Goldenberg,Mrs,Samuel L (Edwiga Grabowska),1CGoldenberg,Ticket,Family,2,2
+97,0,1,male,71,0,0,PC 17754,34.6542,C,A,1,Goldschmidt,Mr,George B,1CGoldschmidt,,,1,1
+98,1,1,male,23,0,1,PC 17759,63.3583,C,D,2,Greenfield,Mr,William Bertram,1CGreenfield,,,1,1
+790,0,1,male,46,0,0,PC 17593,79.2,C,B,2,Guggenheim,Mr,Benjamin,1CGuggenheim,Ticket,,2,1
+371,1,1,male,25,1,0,11765,55.4417,C,E,1,Harder,Mr,George Achilles,1CHarder,,,1,1
+53,1,1,female,49,1,0,PC 17572,76.7292,C,D,1,Harper,Mrs,Henry Sleeper (Myna Haxtun),1CHarper,Ticket,Family,3,2
+646,1,1,male,48,1,0,PC 17572,76.7292,C,D,1,Harper,Mr,Henry Sleeper,1CHarper,Ticket,Family,3,2
+682,1,1,male,27,0,0,PC 17572,76.7292,C,D,1,Hassab,Mr,Hammad,1CHassab,Ticket,,3,1
+311,1,1,female,24,0,0,11767,83.1583,C,C,1,Hays,Miss,Margaret Bechstein,1CHays,Ticket,,2,1
+330,1,1,female,16,0,1,111361,57.9792,C,B,1,Hippach,Miss,Jean Gertrude,1CHippach,Ticket,Family,2,2
+524,1,1,female,44,0,1,111361,57.9792,C,B,1,Hippach,Mrs,Louis Albert (Ida Sophia Fischer),1CHippach,Ticket,Family,2,2
+605,1,1,male,35,0,0,111426,26.55,C,,,Homer,Mr,"Harry (""Mr E Haven"")",1CHomer,,,1,1
+794,0,1,male,,0,0,PC 17600,30.6958,C,,,Hoyt,Mr,William Fisher,1CHoyt,,,1,1
+178,0,1,female,50,0,0,PC 17595,28.7125,C,C,1,Isham,Miss,Ann Elizabeth,1CIsham,,,1,1
+488,0,1,male,58,0,0,11771,29.7,C,B,1,Kent,Mr,Edward Austin,1CKent,,,1,1
+538,1,1,female,30,0,0,PC 17761,106.425,C,,,LeRoy,Miss,Bertha,1CLeRoy,Ticket,,2,1
+738,1,1,male,35,0,0,PC 17755,512.3292,C,B,1,Lesurer,Mr,Gustave J,1CLesurer,Ticket,,3,1
+296,0,1,male,,0,0,PC 17612,27.7208,C,,,Lewy,Mr,Ervin G,1CLewy,,,1,1
+196,1,1,female,58,0,0,PC 17569,146.5208,C,B,1,Lurette,Miss,Elise,1CLurette,Ticket,,2,1
+840,1,1,male,,0,0,11774,29.7,C,C,1,Marechal,Mr,Pierre,1CMarechal,,,1,1
+711,1,1,female,24,0,0,PC 17482,49.5042,C,C,1,Mayne,Mlle,"Berthe Antonine (""Mrs de Villiers"")",1CMayne,,,1,1
+35,0,1,male,28,1,0,PC 17604,82.1708,C,,,Meyer,Mr,Edgar Joseph,1CMeyer,Ticket,Family,2,2
+376,1,1,female,,1,0,PC 17604,82.1708,C,,,Meyer,Mrs,Edgar Joseph (Leila Saks),1CMeyer,Ticket,Family,2,2
+274,0,1,male,37,0,1,PC 17596,29.7,C,C,1,Natsch,Mr,Charles H,1CNatsch,,,1,1
+216,1,1,female,31,1,0,35273,113.275,C,D,1,Newell,Miss,Madeleine,1CNewell,Ticket,Family,3,3
+394,1,1,female,23,1,0,35273,113.275,C,D,1,Newell,Miss,Marjorie,1CNewell,Ticket,Family,3,3
+660,0,1,male,58,0,2,35273,113.275,C,D,1,Newell,Mr,Arthur Webster,1CNewell,Ticket,Family,3,3
+55,0,1,male,65,0,1,113509,61.9792,C,B,1,Ostby,Mr,Engelhart Cornelius,1COstby,,,1,1
+308,1,1,female,17,1,0,PC 17758,108.9,C,C,1,Penasco y Castellana,Mrs,Victor de Satode (Maria Josefa Perez de Soto y Vallejo),1CPenasco y Castellana,Ticket,Family,2,2
+506,0,1,male,18,1,0,PC 17758,108.9,C,C,1,Penasco y Castellana,Mr,Victor de Satode,1CPenasco y Castellana,Ticket,Family,2,2
+880,1,1,female,56,0,1,11767,83.1583,C,C,1,Potter,Mrs,Thomas Jr (Lily Alexenia Wilson),1CPotter,Ticket,,2,1
+374,0,1,male,22,0,0,PC 17760,135.6333,C,,,Ringhini,Mr,Sante,1CRinghini,Ticket,,3,1
+558,0,1,male,,0,0,PC 17757,227.525,C,,,Robbins,Mr,Victor,1CRobbins,Ticket,,4,1
+584,0,1,male,36,0,0,13049,40.125,C,A,1,Ross,Mr,John Hugo,1CRoss,,,1,1
+514,1,1,female,54,1,0,PC 17603,59.4,C,,,Rothschild,Mrs,Martin (Elizabeth L,1CRothschild,,,1,1
+312,1,1,female,18,2,2,PC 17608,262.375,C,B,4,Ryerson,Miss,Emily Borie,1CRyerson,Ticket,Family,2,2
+743,1,1,female,21,2,2,PC 17608,262.375,C,B,4,Ryerson,Miss,"Susan Parker ""Suzette""",1CRyerson,Ticket,Family,2,2
+642,1,1,female,24,0,0,PC 17477,69.3,C,B,1,Sagesser,Mlle,Emma,1CSagesser,Ticket,,2,1
+843,1,1,female,30,0,0,113798,31,C,,,Serepeca,Miss,Augusta,1CSerepeca,Ticket,,2,1
+648,1,1,male,56,0,0,13213,35.5,C,A,1,Simonius-Blumer,Col,Oberst Alfons,1CSimonius-Blumer,,,1,1
+175,0,1,male,56,0,0,17764,30.6958,C,A,1,Smith,Mr,James Clinch,1CSmith,,,1,1
+320,1,1,female,40,1,1,16966,134.5,C,E,1,Spedden,Mrs,Frederic Oakley (Margaretta Corning Stone),1CSpedden,Ticket,,2,1
+32,1,1,female,,1,0,PC 17569,146.5208,C,B,1,Spencer,Mrs,William Augustus (Marie Eugenie),1CSpencer,Ticket,,2,1
+633,1,1,male,32,0,0,13214,30.5,C,B,1,Stahelin-Maeglin,Dr,Max,1CStahelin-Maeglin,,,1,1
+592,1,1,female,52,1,0,36947,78.2667,C,D,1,Stephenson,Mrs,Walter Bertram (Martha Eustis),1CStephenson,Ticket,,2,1
+65,0,1,male,,0,0,PC 17605,27.7208,C,,,Stewart,Mr,Albert A,1CStewart,,,1,1
+582,1,1,female,39,1,1,17421,110.8833,C,C,1,Thayer,Mrs,John Borland (Marian Longstreth Morris),1CThayer,Ticket,Family,4,3
+699,0,1,male,49,1,1,17421,110.8833,C,C,1,Thayer,Mr,John Borland,1CThayer,Ticket,Family,4,3
+551,1,1,male,17,0,2,17421,110.8833,C,C,1,Thayer,Mr,John Borland Jr,1CThayer,Ticket,Family,4,3
+257,1,1,female,,0,0,PC 17585,79.2,C,,,Thorne,Mrs,Gertrude Maybelle,1CThorne,,,1,1
+31,0,1,male,40,0,0,PC 17601,27.7208,C,,,Uruchurtu,Don,Manuel E,1CUruchurtu,,,1,1
+259,1,1,female,35,0,0,PC 17755,512.3292,C,,,Ward,Miss,Anna,1CWard,Ticket,,3,1
+367,1,1,female,60,1,0,110813,75.25,C,D,1,Warren,Mrs,Frank Manley (Anna Sophia Atkinson),1CWarren,,,1,1
+378,0,1,male,27,0,2,113503,211.5,C,C,1,Widener,Mr,Harry Elkins,1CWidener,,,1,1
+156,0,1,male,51,0,1,PC 17597,61.3792,C,,,Williams,Mr,Charles Duane,1CWilliams,,,1,1
+326,1,1,female,36,0,0,PC 17760,135.6333,C,C,1,Young,Miss,Marie Grice,1CYoung,Ticket,,3,1
+62,1,1,female,38,0,0,113572,80,,B,1,Icard,Miss,Amelie,1Icard,Ticket,,2,1
+246,0,1,male,44,2,0,19928,90,Q,C,1,Minahan,Dr,William Edward,1QMinahan,Ticket,Family,2,2
+413,1,1,female,33,1,0,19928,90,Q,C,1,Minahan,Miss,Daisy E,1QMinahan,Ticket,Family,2,2
+731,1,1,female,29,0,0,24160,211.3375,S,B,1,Allen,Miss,Elisabeth Walton,1SAllen,Ticket,,3,1
+298,0,1,female,2,1,2,113781,151.55,S,C,2,Allison,Miss,Helen Loraine,1SAllison,Ticket,Family,4,3
+306,1,1,male,0.92,1,2,113781,151.55,S,C,2,Allison,Master,Hudson Trevor,1SAllison,Ticket,Family,4,3
+499,0,1,female,25,1,2,113781,151.55,S,C,2,Allison,Mrs,Hudson J C (Bessie Waldo Daniels),1SAllison,Ticket,Family,4,3
+461,1,1,male,48,0,0,19952,26.55,S,E,1,Anderson,Mr,Harry,1SAnderson,,,1,1
+276,1,1,female,63,1,0,13502,77.9583,S,D,1,Andrews,Miss,Kornelia Theodosia,1SAndrews,Ticket,Family,3,2
+807,0,1,male,39,0,0,112050,0,S,A,1,Andrews,Mr,Thomas Jr,1SAndrews,,Family,1,2
+572,1,1,female,53,2,0,11769,51.4792,S,C,1,Appleton,Mrs,Edward Dale (Charlotte Lamson),1SAppleton,,,1,1
+291,1,1,female,26,0,0,19877,78.85,S,,,Barber,Miss,"Ellen ""Nellie""",1SBarber,Ticket,,2,1
+631,1,1,male,80,0,0,27042,30,S,A,1,Barkworth,Mr,Algernon Henry Wilson,1SBarkworth,,,1,1
+169,0,1,male,,0,0,PC 17318,25.925,S,,,Baumann,Mr,John D,1SBaumann,,,1,1
+249,1,1,male,37,1,1,11751,52.5542,S,D,1,Beckwith,Mr,Richard Leonard,1SBeckwith,Ticket,Family,2,2
+872,1,1,female,47,1,1,11751,52.5542,S,D,1,Beckwith,Mrs,Richard Leonard (Sallie Monypeny),1SBeckwith,Ticket,Family,2,2
+270,1,1,female,35,0,0,PC 17760,135.6333,S,C,1,Bissette,Miss,Amelia,1SBissette,Ticket,,3,1
+431,1,1,male,28,0,0,110564,26.55,S,C,1,Bjornstrom-Steffansson,Mr,Mauritz Hakan,1SBjornstrom-Steffansson,,,1,1
+340,0,1,male,45,0,0,113784,35.5,S,T,1,Blackwell,Mr,Stephen Weart,1SBlackwell,,,1,1
+12,1,1,female,58,0,0,113783,26.55,S,C,1,Bonnell,Miss,Elizabeth,1SBonnell,,,1,1
+357,1,1,female,22,0,1,113505,55,S,E,1,Bowerman,Miss,Elsie Edith,1SBowerman,Ticket,,2,1
+508,1,1,male,,0,0,111427,26.55,S,,,Bradley,Mr,"George (""George Arthur Brayton"")",1SBradley,,,1,1
+537,0,1,male,45,0,0,113050,26.55,S,B,1,Butt,Major,Archibald Willingham,1SButt,,,1,1
+271,0,1,male,,0,0,113798,31,S,,,Cairns,Mr,Alexander,1SCairns,Ticket,,2,1
+708,1,1,male,42,0,0,PC 17476,26.2875,S,E,1,Calderhead,Mr,Edward Pennington,1SCalderhead,,,1,1
+873,0,1,male,33,0,0,695,5,S,B,3,Carlsson,Mr,Frans Olof,1SCarlsson,,,1,1
+84,0,1,male,28,0,0,113059,47.1,S,,,Carrau,Mr,Francisco M,1SCarrau,,,1,1
+391,1,1,male,36,1,2,113760,120,S,B,2,Carter,Mr,William Ernest,1SCarter,Ticket,Family,4,4
+436,1,1,female,14,1,2,113760,120,S,B,2,Carter,Miss,Lucile Polk,1SCarter,Ticket,Family,4,4
+764,1,1,female,36,1,2,113760,120,S,B,2,Carter,Mrs,William Ernest (Lucile Polk),1SCarter,Ticket,Family,4,4
+803,1,1,male,11,1,2,113760,120,S,B,2,Carter,Master,William Thornton II,1SCarter,Ticket,Family,4,4
+742,0,1,male,36,1,0,19877,78.85,S,C,1,Cavendish,Mr,Tyrell William,1SCavendish,Ticket,,2,1
+93,0,1,male,46,1,0,W.E.P. 5734,61.175,S,E,1,Chaffee,Mr,Herbert Fuller,1SChaffee,,,1,1
+725,1,1,male,27,1,0,113806,53.1,S,E,1,Chambers,Mr,Norman Campbell,1SChambers,Ticket,Family,2,2
+810,1,1,female,33,1,0,113806,53.1,S,E,1,Chambers,Mrs,Norman Campbell (Bertha Griggs),1SChambers,Ticket,Family,2,2
+258,1,1,female,30,0,0,110152,86.5,S,B,1,Cherry,Miss,Gladys,1SCherry,Ticket,,3,1
+167,1,1,female,,0,1,113505,55,S,E,1,Chibnall,Mrs,(Edith Martha Bowerman),1SChibnall,Ticket,,2,1
+709,1,1,female,22,0,0,113781,151.55,S,,,Cleaver,Miss,Alice,1SCleaver,Ticket,,4,1
+476,0,1,male,,0,0,110465,52,S,A,1,Clifford,Mr,George Quincy,1SClifford,Ticket,,2,1
+663,0,1,male,47,0,0,5727,25.5875,S,E,1,Colley,Mr,Edward Pomeroy,1SColley,,,1,1
+541,1,1,female,36,0,2,WE/P 5735,71,S,B,1,Crosby,Miss,Harriet R,1SCrosby,Ticket,Family,2,2
+746,0,1,male,70,1,1,WE/P 5735,71,S,B,1,Crosby,Capt,Edward Gifford,1SCrosby,Ticket,Family,2,2
+858,1,1,male,51,0,0,113055,26.55,S,E,1,Daly,Mr,Peter Denis ,1SDaly,,,1,1
+608,1,1,male,27,0,0,113804,30.5,S,,,Daniel,Mr,Robert Williams,1SDaniel,,,1,1
+672,0,1,male,31,1,0,F.C. 12750,52,S,B,1,Davidson,Mr,Thornton,1SDavidson,,,1,1
+691,1,1,male,31,1,0,17474,57,S,B,1,Dick,Mr,Albert Adrian,1SDick,Ticket,Family,2,2
+782,1,1,female,17,1,0,17474,57,S,B,1,Dick,Mrs,Albert Adrian (Vera Gillespie),1SDick,Ticket,Family,2,2
+446,1,1,male,4,0,2,33638,81.8583,S,A,1,Dodge,Master,Washington,1SDodge,,,1,1
+528,0,1,male,,0,0,PC 17483,221.7792,S,C,1,Farthing,Mr,John,1SFarthing,,,1,1
+573,1,1,male,36,0,0,PC 17474,26.3875,S,E,1,Flynn,Mr,"John Irwin (""Irving"")",1SFlynn,,,1,1
+28,0,1,male,19,3,2,19950,263,S,C,3,Fortune,Mr,Charles Alexander,1SFortune,Ticket,Family,4,4
+89,1,1,female,23,3,2,19950,263,S,C,3,Fortune,Miss,Mabel Helen,1SFortune,Ticket,Family,4,4
+342,1,1,female,24,3,2,19950,263,S,C,3,Fortune,Miss,Alice Elizabeth,1SFortune,Ticket,Family,4,4
+439,0,1,male,64,1,4,19950,263,S,C,3,Fortune,Mr,Mark,1SFortune,Ticket,Family,4,4
+335,1,1,female,,1,0,PC 17611,133.65,S,,,Frauenthal,Mrs,Henry William (Clara Heinsheimer),1SFrauenthal,Ticket,Family,2,2
+661,1,1,male,50,2,0,PC 17611,133.65,S,,,Frauenthal,Dr,Henry William,1SFrauenthal,Ticket,Family,2,2
+816,0,1,male,,0,0,112058,0,S,B,1,Fry,Mr,Richard,1SFry,,,1,1
+4,1,1,female,35,1,0,113803,53.1,S,C,1,Futrelle,Mrs,Jacques Heath (Lily May Peel),1SFutrelle,Ticket,Family,2,2
+138,0,1,male,37,1,0,113803,53.1,S,C,1,Futrelle,Mr,Jacques Heath,1SFutrelle,Ticket,Family,2,2
+463,0,1,male,47,0,0,111320,38.5,S,E,1,Gee,Mr,Arthur H,1SGee,,,1,1
+888,1,1,female,19,0,0,112053,30,S,B,1,Graham,Miss,Margaret Edith,1SGraham,,Family,1,3
+269,1,1,female,58,0,1,PC 17582,153.4625,S,C,1,Graham,Mrs,William Thompson (Edith Junkins),1SGraham,Ticket,Family,3,3
+333,0,1,male,38,0,1,PC 17582,153.4625,S,C,1,Graham,Mr,George Edward,1SGraham,Ticket,Family,3,3
+603,0,1,male,,0,0,113796,42.4,S,,,Harrington,Mr,Charles H,1SHarrington,,,1,1
+63,0,1,male,45,1,0,36973,83.475,S,C,1,Harris,Mr,Henry Birkhardt,1SHarris,Ticket,Family,2,2
+231,1,1,female,35,1,0,36973,83.475,S,C,1,Harris,Mrs,Henry Birkhardt (Irene Wallach),1SHarris,Ticket,Family,2,2
+264,0,1,male,40,0,0,112059,0,S,B,1,Harrison,Mr,William,1SHarrison,,,1,1
+741,1,1,male,,0,0,16988,30,S,D,1,Hawksford,Mr,Walter James,1SHawksford,,,1,1
+821,1,1,female,52,1,1,12749,93.5,S,B,1,Hays,Mrs,Charles Melville (Clara Jennings Gregg),1SHays,Ticket,,2,1
+766,1,1,female,51,1,0,13502,77.9583,S,D,1,Hogeboom,Mrs,John C (Anna Andrews),1SHogeboom,Ticket,,3,1
+36,0,1,male,42,1,0,113789,52,S,,,Holverson,Mr,Alexander Oskar,1SHolverson,Ticket,Family,2,2
+384,1,1,female,35,1,0,113789,52,S,,,Holverson,Mrs,Alexander Oskar (Mary Aline Towner),1SHolverson,Ticket,Family,2,2
+225,1,1,male,38,1,0,19943,90,S,C,1,Hoyt,Mr,Frederick Maxfield,1SHoyt,Ticket,Family,2,2
+487,1,1,female,35,1,0,19943,90,S,C,1,Hoyt,Mrs,Frederick Maxfield (Jane Anne Forby),1SHoyt,Ticket,Family,2,2
+458,1,1,female,,1,0,17464,51.8625,S,D,1,Kenyon,Mrs,Frederick R (Marion),1SKenyon,,,1,1
+622,1,1,male,42,1,0,11753,52.5542,S,D,1,Kimball,Mr,Edwin Nelson Jr,1SKimball,,,1,1
+712,0,1,male,,0,0,113028,26.55,S,C,1,Klaber,Mr,Herman,1SKlaber,,,1,1
+797,1,1,female,49,0,0,17465,25.9292,S,D,1,Leader,Dr,Alice (Farnham),1SLeader,,,1,1
+854,1,1,female,16,0,1,PC 17592,39.4,S,D,1,Lines,Miss,Mary Conover,1SLines,,,1,1
+783,0,1,male,29,0,0,113501,30,S,D,1,Long,Mr,Milton Clyde,1SLong,,,1,1
+628,1,1,female,21,0,0,13502,77.9583,S,D,1,Longley,Miss,Gretchen Fiske,1SLongley,Ticket,,3,1
+690,1,1,female,15,0,1,24160,211.3375,S,B,1,Madill,Miss,Georgette Alexandra,1SMadill,Ticket,,3,1
+505,1,1,female,16,0,0,110152,86.5,S,B,1,Maioni,Miss,Roberta,1SMaioni,Ticket,,3,1
+749,0,1,male,19,1,0,113773,53.1,S,D,1,Marvin,Mr,Daniel Warner,1SMarvin,,,1,1
+7,0,1,male,54,0,0,17463,51.8625,S,E,1,McCarthy,Mr,Timothy J,1SMcCarthy,,,1,1
+513,1,1,male,36,0,0,PC 17473,26.2875,S,E,1,McGough,Mr,James Robert,1SMcGough,,,1,1
+457,0,1,male,65,0,0,13509,26.55,S,E,1,Millet,Mr,Francis Davis,1SMillet,,,1,1
+493,0,1,male,55,0,0,113787,30.5,S,C,1,Molson,Mr,Harry Markland,1SMolson,,,1,1
+137,1,1,female,19,0,2,11752,26.2833,S,D,1,Newsom,Miss,Helen Monypeny,1SNewsom,,,1,1
+546,0,1,male,64,0,0,693,26,S,,,Nicholson,Mr,Arthur Ernest,1SNicholson,,,1,1
+634,0,1,male,,0,0,112052,0,S,,,Parr,Mr,William Henry Marsh,1SParr,,,1,1
+332,0,1,male,45.5,0,0,113043,28.5,S,C,1,Partner,Mr,Austen,1SPartner,,,1,1
+152,1,1,female,22,1,0,113776,66.6,S,C,1,Pears,Mrs,Thomas (Edith Wearne),1SPears,Ticket,Family,2,2
+337,0,1,male,29,1,0,113776,66.6,S,C,1,Pears,Mr,Thomas Clinton,1SPears,Ticket,Family,2,2
+521,1,1,female,30,0,0,12749,93.5,S,B,1,Perreault,Miss,Anne,1SPerreault,Ticket,,2,1
+450,1,1,male,52,0,0,113786,30.5,S,C,1,Peuchen,Major,Arthur Godfrey,1SPeuchen,,,1,1
+111,0,1,male,47,0,0,110465,52,S,C,1,Porter,Mr,Walter Chamberlain,1SPorter,Ticket,,2,1
+823,0,1,male,38,0,0,19972,0,S,,,Reuchlin,Jonkheer,John George,1SReuchlin,,,1,1
+780,1,1,female,43,0,1,24160,211.3375,S,B,1,Robert,Mrs,Edward Scott (Elisabeth Walton McMillan),1SRobert,Ticket,,3,1
+868,0,1,male,31,0,0,PC 17590,50.4958,S,A,1,Roebling,Mr,Washington Augustus II,1SRoebling,,,1,1
+188,1,1,male,45,0,0,111428,26.55,S,,,Romaine,Mr,"Charles Hallace (""Mr C Rolmane"")",1SRomaine,,,1,1
+186,0,1,male,,0,0,113767,50,S,A,1,Rood,Mr,Hugh Roscoe,1SRood,,,1,1
+760,1,1,female,33,0,0,110152,86.5,S,B,1,Rothes,the Countess,of (Lucy Noel Martha Dyer-Edwards),1SRothes,Ticket,,3,1
+299,1,1,male,,0,0,19988,30.5,S,C,1,Saalfeld,Mr,Adolphe,1SSaalfeld,,,1,1
+448,1,1,male,34,0,0,113794,26.55,S,,,Seward,Mr,Frederic Kimber,1SSeward,,,1,1
+610,1,1,female,40,0,0,PC 17582,153.4625,S,C,1,Shutes,Miss,Elizabeth W,1SShutes,Ticket,,3,1
+702,1,1,male,35,0,0,PC 17475,26.2875,S,E,1,Silverthorne,Mr,Spencer Victor,1SSilverthorne,,,1,1
+435,0,1,male,50,1,0,13507,55.9,S,E,1,Silvey,Mr,William Baird,1SSilvey,Ticket,Family,2,2
+578,1,1,female,39,1,0,13507,55.9,S,E,1,Silvey,Mrs,William Baird (Alice Munger),1SSilvey,Ticket,Family,2,2
+24,1,1,male,28,0,0,113788,35.5,S,A,1,Sloper,Mr,William Thompson,1SSloper,,,1,1
+468,0,1,male,56,0,0,113792,26.55,S,,,Smart,Mr,John Montgomery,1SSmart,,,1,1
+285,0,1,male,,0,0,113056,26,S,A,1,Smith,Mr,Richard William,1SSmith,,,1,1
+253,0,1,male,62,0,0,113514,26.55,S,C,1,Stead,Mr,William Thomas,1SStead,,,1,1
+626,0,1,male,61,0,0,36963,32.3208,S,D,1,Sutton,Mr,Frederick,1SSutton,,,1,1
+863,1,1,female,48,0,0,17466,25.9292,S,D,1,Swift,Mrs,Frederick Joel (Margaret Welles Barron),1SSwift,,,1,1
+263,0,1,male,52,1,1,110413,79.65,S,E,1,Taussig,Mr,Emil,1STaussig,Ticket,Family,3,3
+559,1,1,female,39,1,1,110413,79.65,S,E,1,Taussig,Mrs,Emil (Tillie Mandelbaum),1STaussig,Ticket,Family,3,3
+586,1,1,female,18,0,2,110413,79.65,S,E,1,Taussig,Miss,Ruth,1STaussig,Ticket,Family,3,3
+670,1,1,female,,1,0,19996,52,S,C,1,Taylor,Mrs,Elmer Zebley (Juliet Cummins Wright),1STaylor,Ticket,Family,2,2
+713,1,1,male,48,1,0,19996,52,S,C,1,Taylor,Mr,Elmer Zebley,1STaylor,Ticket,Family,2,2
+830,1,1,female,62,0,0,113572,80,,B,1,Stone,Mrs,George Nelson (Martha Evelyn),1Stone,Ticket,,2,1
+171,0,1,male,61,0,0,111240,33.5,S,B,1,Van der hoef,Mr,Wyckoff,1SVan der hoef,,,1,1
+516,0,1,male,47,0,0,36967,34.0208,S,D,1,Walker,Mr,William Anderson,1SWalker,,,1,1
+695,0,1,male,60,0,0,113800,26.55,S,,,Weir,Col,John,1SWeir,,,1,1
+103,0,1,male,21,0,1,35281,77.2875,S,D,1,White,Mr,Richard Frasar,1SWhite,Ticket,Family,2,2
+125,0,1,male,54,0,1,35281,77.2875,S,D,1,White,Mr,Percival Wayland,1SWhite,Ticket,Family,2,2
+319,1,1,female,31,0,2,36928,164.8667,S,C,1,Wick,Miss,Mary Natalie,1SWick,Ticket,Family,2,2
+857,1,1,female,45,1,1,36928,164.8667,S,,,Wick,Mrs,George Dennick (Mary Hitchcock),1SWick,Ticket,Family,2,2
+352,0,1,male,,0,0,113510,35,S,C,1,Williams-Lambert,Mr,Fletcher Fellows,1SWilliams-Lambert,,,1,1
+56,1,1,male,,0,0,19947,35.5,S,C,1,Woolner,Mr,Hugh,1SWoolner,,,1,1
+556,0,1,male,62,0,0,113807,26.55,S,,,Wright,Mr,George,1SWright,,,1,1
+309,0,2,male,30,1,0,P/PP 3381,24,C,,,Abelson,Mr,Samuel,2CAbelson,Ticket,Family,2,2
+875,1,2,female,28,1,0,P/PP 3381,24,C,,,Abelson,Mrs,Samuel (Hannah Wizosky),2CAbelson,Ticket,Family,2,2
+362,0,2,male,29,1,0,SC/PARIS 2167,27.7208,C,,,del Carlo,Mr,Sebastiano,2Cdel Carlo,,,1,1
+867,1,2,female,27,1,0,SC/PARIS 2149,13.8583,C,,,Duran y More,Miss,Asuncion,2CDuran y More,,,1,1
+474,1,2,female,23,0,0,SC/AH Basle 541,13.7917,C,D,1,Jerwan,Mrs,Amin S (Marie Marthe Thuillard),2CJerwan,,,1,1
+44,1,2,female,3,1,2,SC/Paris 2123,41.5792,C,,,Laroche,Miss,Simonne Marie Anne Andree,2CLaroche,Ticket,Family,3,3
+609,1,2,female,22,1,2,SC/Paris 2123,41.5792,C,,,Laroche,Mrs,Joseph (Juliette Marie Louise Lafargue),2CLaroche,Ticket,Family,3,3
+686,0,2,male,25,1,2,SC/Paris 2123,41.5792,C,,,Laroche,Mr,Joseph Philippe Lemercier,2CLaroche,Ticket,Family,3,3
+390,1,2,female,17,0,0,SC 1748,12,C,,,Lehmann,Miss,Bertha,2CLehmann,,,1,1
+293,0,2,male,36,0,0,SC/Paris 2163,12.875,C,D,1,Levy,Mr,Rene Jacques,2CLevy,,,1,1
+818,0,2,male,31,1,1,S.C./PARIS 2079,37.0042,C,,,Mallet,Mr,Albert,2CMallet,Ticket,Family,2,2
+828,1,2,male,1,0,2,S.C./PARIS 2079,37.0042,C,,,Mallet,Master,Andre,2CMallet,Ticket,Family,2,2
+10,1,2,female,14,1,0,237736,30.0708,C,,,Nasser,Mrs,Nicholas (Adele Achem),2CNasser,Ticket,Family,2,2
+123,0,2,male,32.5,1,0,237736,30.0708,C,,,Nasser,Mr,Nicholas,2CNasser,Ticket,Family,2,2
+548,1,2,male,,0,0,SC/PARIS 2146,13.8625,C,,,Padro y Manent,Mr,Julian,2CPadro y Manent,,,1,1
+182,0,2,male,,0,0,SC/PARIS 2131,15.05,C,,,Pernot,Mr,Rene,2CPernot,,,1,1
+136,0,2,male,23,0,0,SC/PARIS 2133,15.0458,C,,,Richard,Mr,Emile,2CRichard,,,1,1
+304,1,2,female,,0,0,226593,12.35,Q,E,1,Keane,Miss,Nora A,2QKeane,,,1,1
+627,0,2,male,57,0,0,219533,12.35,Q,,,Kirkland,Rev,Charles Leonard,2QKirkland,,,1,1
+323,1,2,female,30,0,0,234818,12.35,Q,,,Slayter,Miss,Hilda Mary,2QSlayter,,,1,1
+145,0,2,male,18,0,0,231945,11.5,S,,,Andrew,Mr,Edgardo Samuel,2SAndrew,,,1,1
+519,1,2,female,36,1,0,226875,26,S,,,Angle,Mrs,"William A (Florence ""Mary"" Agnes Hughes)",2SAngle,,,1,1
+758,0,2,male,18,0,0,29108,11.5,S,,,Bailey,Mr,Percy Andrew,2SBailey,,,1,1
+328,1,2,female,36,0,0,28551,13,S,D,1,Ball,Mrs,(Ada E Hall),2SBall,,,1,1
+884,0,2,male,28,0,0,C.A./SOTON 34068,10.5,S,,,Banfield,Mr,Frederick James,2SBanfield,,,1,1
+151,0,2,male,51,0,0,S.O.P. 1166,12.525,S,,,Bateman,Rev,Robert James,2SBateman,,,1,1
+544,1,2,male,32,1,0,2908,26,S,,,Beane,Mr,Edward,2SBeane,Ticket,Family,2,2
+547,1,2,female,19,1,0,2908,26,S,,,Beane,Mrs,Edward (Ethel Clarke),2SBeane,Ticket,Family,2,2
+184,1,2,male,1,2,1,230136,39,S,F,1,Becker,Master,Richard F,2SBecker,Ticket,Family,2,2
+619,1,2,female,4,2,1,230136,39,S,F,1,Becker,Miss,Marion Louise,2SBecker,Ticket,Family,2,2
+22,1,2,male,34,0,0,248698,13,S,D,1,Beesley,Mr,Lawrence,2SBeesley,,,1,1
+734,0,2,male,23,0,0,28425,13,S,,,Berriman,Mr,William John,2SBerriman,,,1,1
+222,0,2,male,27,0,0,220367,13,S,,,Bracken,Mr,James H,2SBracken,,,1,1
+671,1,2,female,40,1,1,29750,39,S,,,Brown,Mrs,Thomas William Solomon (Elizabeth Catherine Ford),2SBrown,Ticket,Family,2,3
+685,0,2,male,60,1,1,29750,39,S,,,Brown,Mr,Thomas William Solomon,2SBrown,Ticket,Family,2,3
+346,1,2,female,24,0,0,248733,13,S,F,1,Brown,Miss,"Amelia ""Mildred""",2SBrown,,Family,1,3
+729,0,2,male,25,1,0,236853,26,S,,,Bryhl,Mr,Kurt Arnold Gottfrid,2SBryhl,,,1,1
+388,1,2,female,36,0,0,27849,13,S,,,Buss,Miss,Kate,2SBuss,,,1,1
+667,0,2,male,25,0,0,234686,13,S,,,Butler,Mr,Reginald Fenton,2SButler,,,1,1
+150,0,2,male,42,0,0,244310,13,S,,,Byles,Rev,Thomas Roussel Davids,2SByles,,,1,1
+866,1,2,female,42,0,0,236852,13,S,,,Bystrom,Mrs,(Karolina),2SBystrom,,,1,1
+79,1,2,male,0.83,0,2,248738,29,S,,,Caldwell,Master,Alden Gates,2SCaldwell,Ticket,Family,2,2
+324,1,2,female,22,1,1,248738,29,S,,,Caldwell,Mrs,Albert Francis (Sylvia Mae Harbaugh),2SCaldwell,Ticket,Family,2,2
+212,1,2,female,35,0,0,F.C.C. 13528,21,S,,,Cameron,Miss,Clear Annie,2SCameron,,,1,1
+467,0,2,male,,0,0,239853,0,S,,,Campbell,Mr,William,2SCampbell,Ticket,,3,1
+192,0,2,male,19,0,0,28424,13,S,,,Carbines,Mr,William,2SCarbines,,,1,1
+250,0,2,male,54,1,0,244252,26,S,,,Carter,Rev,Ernest Courtenay,2SCarter,Ticket,Family,2,2
+855,0,2,female,44,1,0,244252,26,S,,,Carter,Mrs,Ernest Courtenay (Lilian Hughes),2SCarter,Ticket,Family,2,2
+696,0,2,male,52,0,0,248731,13.5,S,,,Chapman,Mr,Charles Henry,2SChapman,,Family,1,2
+595,0,2,male,37,1,0,SC/AH 29037,26,S,,,Chapman,Mr,John Henry,2SChapman,,Family,1,2
+581,1,2,female,25,1,1,237789,30,S,,,Christy,Miss,Julie Rachel,2SChristy,,,1,1
+427,1,2,female,28,1,0,2003,26,S,,,Clarke,Mrs,Charles V (Ada Maria Winfield),2SClarke,,,1,1
+243,0,2,male,29,0,0,W./C. 14263,10.5,S,,,Coleridge,Mr,Reginald Charles,2SColeridge,,,1,1
+343,0,2,male,28,0,0,248740,13,S,,,Collander,Mr,Erik Gustaf,2SCollander,,,1,1
+238,1,2,female,8,0,2,C.A. 31921,26.25,S,,,Collyer,Miss,"Marjorie ""Lottie""",2SCollyer,Ticket,Family,3,3
+638,0,2,male,31,1,1,C.A. 31921,26.25,S,,,Collyer,Mr,Harvey,2SCollyer,Ticket,Family,3,3
+802,1,2,female,31,1,1,C.A. 31921,26.25,S,,,Collyer,Mrs,Harvey (Charlotte Annie Tate),2SCollyer,Ticket,Family,3,3
+414,0,2,male,,0,0,239853,0,S,,,Cunningham,Mr,Alfred Fleming,2SCunningham,Ticket,,3,1
+550,1,2,male,8,1,1,C.A. 33112,36.75,S,,,Davies,Master,John Morgan Jr,2SDavies,Ticket,Family,2,2
+386,0,2,male,18,0,0,S.O.C. 14879,73.5,S,,,Davies,Mr,Charles Henry,2SDavies,Ticket,Family,5,2
+636,1,2,female,28,0,0,237668,13,S,,,Davis,Miss,Mary,2SDavis,,,1,1
+99,1,2,female,34,0,1,231919,23,S,,,Doling,Mrs,John T (Ada Julia Bone),2SDoling,Ticket,Family,2,2
+652,1,2,female,18,0,1,231919,23,S,,,Doling,Miss,Elsie,2SDoling,Ticket,Family,2,2
+583,0,2,male,54,0,0,28403,26,S,,,Downton,Mr,William James,2SDownton,Ticket,,2,1
+417,1,2,female,34,1,1,28220,32.5,S,,,Drew,Mrs,James Vivian (Lulu Thorne Christian),2SDrew,,,1,1
+659,0,2,male,23,0,0,29751,13,S,,,Eitemiller,Mr,George Floyd,2SEitemiller,,,1,1
+229,0,2,male,18,0,0,236171,13,S,,,Fahlstrom,Mr,Arne Jonas,2SFahlstrom,,,1,1
+54,1,2,female,29,1,0,2926,26,S,,,Faunthorpe,Mrs,Lizzie (Elizabeth Anne Wilkinson),2SFaunthorpe,,,1,1
+345,0,2,male,36,0,0,229236,13,S,,,Fox,Mr,Stanley Hubert,2SFox,,,1,1
+482,0,2,male,,0,0,239854,0,S,,,Frost,Mr,"Anthony Wood ""Archie""",2SFrost,,,1,1
+358,0,2,female,38,0,0,237671,13,S,,,Funk,Miss,Annie Clemmer,2SFunk,,,1,1
+21,0,2,male,35,0,0,239865,26,S,,,Fynney,Mr,Joseph J,2SFynney,Ticket,,2,1
+406,0,2,male,34,1,0,28664,21,S,,,Gale,Mr,Shadrach,2SGale,,,1,1
+577,1,2,female,34,0,0,243880,13,S,,,Garside,Miss,Ethel,2SGarside,,,1,1
+792,0,2,male,16,0,0,239865,26,S,,,Gaskell,Mr,Alfred,2SGaskell,Ticket,,2,1
+620,0,2,male,26,0,0,31028,10.5,S,,,Gavey,Mr,Lawrence,2SGavey,,,1,1
+862,0,2,male,21,1,0,28134,11.5,S,,,Giles,Mr,Frederick Edward,2SGiles,,,1,1
+865,0,2,male,24,0,0,233866,13,S,,,Gill,Mr,John William,2SGill,,,1,1
+723,0,2,male,34,0,0,12233,13,S,,,Gillespie,Mr,William Henry,2SGillespie,,,1,1
+214,0,2,male,30,0,0,250646,13,S,,,Givard,Mr,Hans Kristensen,2SGivard,,,1,1
+715,0,2,male,52,0,0,250647,13,S,,,Greenberg,Mr,Samuel,2SGreenberg,Ticket,,2,1
+179,0,2,male,30,0,0,250653,13,S,,,Hale,Mr,Reginald,2SHale,,,1,1
+248,1,2,female,24,0,2,250649,14.5,S,,,Hamalainen,Mrs,William (Anna),2SHamalainen,Ticket,Family,2,2
+756,1,2,male,0.67,1,1,250649,14.5,S,,,Hamalainen,Master,Viljo,2SHamalainen,Ticket,Family,2,2
+721,1,2,female,6,0,1,248727,33,S,,,Harper,Miss,"Annie Jessie ""Nina""",2SHarper,Ticket,Family,3,2
+849,0,2,male,28,0,1,248727,33,S,,,Harper,Rev,John,2SHarper,Ticket,Family,3,2
+571,1,2,male,62,0,0,S.W./PP 752,10.5,S,,,Harris,Mr,George,2SHarris,,Family,1,2
+220,0,2,male,30,0,0,W/C 14208,10.5,S,,,Harris,Mr,Walter,2SHarris,,Family,1,2
+315,0,2,male,43,1,1,F.C.C. 13529,26.25,S,,,Hart,Mr,Benjamin,2SHart,Ticket,Family,3,3
+441,1,2,female,45,1,1,F.C.C. 13529,26.25,S,,,Hart,Mrs,Benjamin (Esther Ada Bloomfield),2SHart,Ticket,Family,3,3
+536,1,2,female,7,0,2,F.C.C. 13529,26.25,S,,,Hart,Miss,Eva Miriam,2SHart,Ticket,Family,3,3
+616,1,2,female,24,1,2,220845,65,S,,,Herman,Miss,Alice,2SHerman,Ticket,Family,2,2
+755,1,2,female,48,1,2,220845,65,S,,,Herman,Mrs,Samuel (Jane Laver),2SHerman,Ticket,Family,2,2
+16,1,2,female,55,0,0,248706,16,S,,,Hewlett,Mrs,(Mary D Kingcome) ,2SHewlett,,,1,1
+121,0,2,male,21,2,0,S.O.C. 14879,73.5,S,,,Hickman,Mr,Stanley George,2SHickman,Ticket,Family,5,3
+656,0,2,male,24,2,0,S.O.C. 14879,73.5,S,,,Hickman,Mr,Leonard Mark,2SHickman,Ticket,Family,5,3
+666,0,2,male,32,2,0,S.O.C. 14879,73.5,S,,,Hickman,Mr,Lewis,2SHickman,Ticket,Family,5,3
+530,0,2,male,23,2,1,29104,11.5,S,,,Hocking,Mr,Richard George,2SHocking,,Family,1,2
+775,1,2,female,54,1,3,29105,23,S,,,Hocking,Mrs,Elizabeth (Eliza Needs),2SHocking,,Family,1,2
+724,0,2,male,50,0,0,250643,13,S,,,Hodges,Mr,Henry Price,2SHodges,,,1,1
+237,0,2,male,44,1,0,26707,26,S,,,Hold,Mr,Stephen,2SHold,,,1,1
+73,0,2,male,21,0,0,S.O.C. 14879,73.5,S,,,Hood,Mr,Ambrose Jr,2SHood,Ticket,,5,1
+289,1,2,male,42,0,0,237798,13,S,,,Hosono,Mr,Masabumi,2SHosono,,,1,1
+240,0,2,male,33,0,0,SCO/W 1585,12.275,S,,,Hunt,Mr,George Henry,2SHunt,,,1,1
+85,1,2,female,17,0,0,SO/C 14885,10.5,S,,,Ilett,Miss,Bertha,2SIlett,,,1,1
+218,0,2,male,42,1,0,243847,27,S,,,Jacobsohn,Mr,Sidney Samuel,2SJacobsohn,Ticket,Family,2,2
+601,1,2,female,24,2,1,243847,27,S,,,Jacobsohn,Mrs,Sidney Samuel (Amy Frances Christy),2SJacobsohn,Ticket,Family,2,2
+587,0,2,male,47,0,0,237565,15,S,,,Jarvis,Mr,John Denzil,2SJarvis,,,1,1
+71,0,2,male,32,0,0,C.A. 33111,10.5,S,,,Jenkin,Mr,Stephen Curnow,2SJenkin,,,1,1
+100,0,2,male,34,1,0,244367,26,S,,,Kantor,Mr,Sinai,2SKantor,Ticket,Family,2,2
+317,1,2,female,24,1,0,244367,26,S,,,Kantor,Mrs,Sinai (Miriam Sternin),2SKantor,Ticket,Family,2,2
+707,1,2,female,45,0,0,223596,13.5,S,,,Kelly,Mrs,"Florence ""Fannie""",2SKelly,,,1,1
+733,0,2,male,,0,0,239855,0,S,,,Knight,Mr,Robert J,2SKnight,,,1,1
+440,0,2,male,31,0,0,C.A. 18723,10.5,S,,,Kvillner,Mr,Johan Henrik Johannesson,2SKvillner,,,1,1
+313,0,2,female,26,1,1,250651,26,S,,,Lahtinen,Mrs,William (Anna Sylfven),2SLahtinen,,,1,1
+597,1,2,female,,0,0,248727,33,S,,,Leitch,Miss,Jessie Wills,2SLeitch,Ticket,,3,1
+517,1,2,female,34,0,0,C.A. 34260,10.5,S,F,1,Lemore,Mrs,(Amelia Milley),2SLemore,,,1,1
+235,0,2,male,24,0,0,C.A. 29566,10.5,S,,,Leyson,Mr,Robert William Norman,2SLeyson,,,1,1
+433,1,2,female,42,1,0,SC/AH 3085,26,S,,,Louch,Mrs,Charles Alexander (Alice Adelaide Slow),2SLouch,,,1,1
+773,0,2,female,57,0,0,S.O./P.P. 3,10.5,S,E,1,Mack,Mrs,(Mary),2SMack,Ticket,,2,1
+419,0,2,male,30,0,0,28228,13,S,,,Matthews,Mr,William John,2SMatthews,,,1,1
+398,0,2,male,46,0,0,28403,26,S,,,McKane,Mr,Peter David,2SMcKane,Ticket,,2,1
+273,1,2,female,41,0,1,250644,19.5,S,,,Mellinger,Mrs,(Elizabeth Anne Maidment),2SMellinger,Ticket,Family,2,2
+447,1,2,female,13,0,1,250644,19.5,S,,,Mellinger,Miss,Madeleine Violet,2SMellinger,Ticket,Family,2,2
+227,1,2,male,19,0,0,SW/PP 751,10.5,S,,,Mellors,Mr,William John,2SMellors,,,1,1
+809,0,2,male,39,0,0,248723,13,S,,,Meyer,Mr,August,2SMeyer,,,1,1
+464,0,2,male,48,0,0,234360,13,S,,,Milling,Mr,Jacob Christian,2SMilling,,,1,1
+673,0,2,male,70,0,0,C.A. 24580,10.5,S,,,Mitchell,Mr,Henry Michael,2SMitchell,,,1,1
+887,0,2,male,27,0,0,211536,13,S,,,Montvila,Rev,Juozas,2SMontvila,,,1,1
+318,0,2,male,54,0,0,29011,14,S,,,Moraweck,Dr,Ernest,2SMoraweck,,,1,1
+706,0,2,male,39,0,0,250655,26,S,,,Morley,Mr,"Henry Samuel (""Mr Henry Marshall"")",2SMorley,Ticket,,2,1
+842,0,2,male,16,0,0,S.O./P.P. 3,10.5,S,,,Mudd,Mr,Thomas Charles,2SMudd,Ticket,,2,1
+149,0,2,male,36.5,0,2,230080,26,S,F,1,Navratil,Mr,"Michel (""Louis M Hoffman"")",2SNavratil,Ticket,Family,3,3
+194,1,2,male,3,1,1,230080,26,S,F,1,Navratil,Master,Michel M,2SNavratil,Ticket,Family,3,3
+341,1,2,male,2,1,1,230080,26,S,F,1,Navratil,Master,Edmond Roger,2SNavratil,Ticket,Family,3,3
+146,0,2,male,19,1,1,C.A. 33112,36.75,S,,,Nicholls,Mr,Joseph Charles,2SNicholls,Ticket,,2,1
+563,0,2,male,28,0,0,218629,13.5,S,,,Norman,Mr,Robert Douglas,2SNorman,,,1,1
+67,1,2,female,29,0,0,C.A. 29395,10.5,S,F,1,Nye,Mrs,(Elizabeth Ramell),2SNye,,,1,1
+796,0,2,male,39,0,0,28213,13,S,,,Otter,Mr,Richard,2SOtter,,,1,1
+399,0,2,male,23,0,0,244278,10.5,S,,,Pain,Dr,Alfred,2SPain,,,1,1
+278,0,2,male,,0,0,239853,0,S,,,Parkes,Mr,"Francis ""Frank""",2SParkes,Ticket,,3,1
+260,1,2,female,50,0,1,230433,26,S,,,Parrish,Mrs,(Lutie Davis),2SParrish,Ticket,,2,1
+239,0,2,male,19,0,0,28665,10.5,S,,,Pengelly,Mr,Frederick William,2SPengelly,,,1,1
+428,1,2,female,19,0,0,250655,26,S,,,Phillips,Miss,"Kate Florence (""Mrs Kate Louise Phillips Marshall"")",2SPhillips,Ticket,,2,1
+191,1,2,female,32,0,0,234604,13,S,,,Pinsky,Mrs,(Rosa),2SPinsky,,,1,1
+801,0,2,male,34,0,0,250647,13,S,,,Ponesell,Mr,Martin,2SPonesell,Ticket,,2,1
+507,1,2,female,33,0,2,26360,26,S,,,Quick,Mrs,Frederick Charles (Jane Richards),2SQuick,Ticket,Family,2,2
+531,1,2,female,2,1,1,26360,26,S,,,Quick,Miss,Phyllis May,2SQuick,Ticket,Family,2,2
+266,0,2,male,36,0,0,C.A. 17248,10.5,S,,,Reeves,Mr,David,2SReeves,,,1,1
+477,0,2,male,34,1,0,31027,21,S,,,Renouf,Mr,Peter Henry,2SRenouf,Ticket,Family,2,2
+727,1,2,female,30,3,0,31027,21,S,,,Renouf,Mrs,Peter Henry (Lillian Jefferys),2SRenouf,Ticket,Family,2,2
+444,1,2,female,28,0,0,230434,13,S,,,Reynaldo,Ms,Encarnacion,2SReynaldo,,,1,1
+408,1,2,male,3,1,1,29106,18.75,S,,,Richards,Master,William Rowe,2SRichards,Ticket,Family,3,3
+438,1,2,female,24,2,3,29106,18.75,S,,,Richards,Mrs,Sidney (Emily Hocking),2SRichards,Ticket,Family,3,3
+832,1,2,male,0.83,1,1,29106,18.75,S,,,Richards,Master,George Sibley,2SRichards,Ticket,Family,3,3
+527,1,2,female,50,0,0,W./C. 14258,10.5,S,,,Ridsdale,Miss,Lucy,2SRidsdale,,,1,1
+57,1,2,female,21,0,0,C.A. 31026,10.5,S,,,Rugg,Miss,Emily,2SRugg,,,1,1
+344,0,2,male,25,0,0,244361,13,S,,,Sedgwick,Mr,Charles Frederick Waddington,2SSedgwick,,,1,1
+552,0,2,male,27,0,0,244358,26,S,,,Sharp,Mr,Percival James R,2SSharp,,,1,1
+881,1,2,female,25,0,1,230433,26,S,,,Shelley,Mrs,William (Imanita Parrish Hall),2SShelley,Ticket,,2,1
+418,1,2,female,18,0,2,250652,13,S,,,Silven,Miss,Lyyli Karoliina,2SSilven,,,1,1
+748,1,2,female,30,0,0,250648,13,S,,,Sinkkonen,Miss,Anna,2SSinkkonen,,,1,1
+233,0,2,male,59,0,0,237442,13.5,S,,,Sjostedt,Mr,Ernst Adolf,2SSjostedt,,,1,1
+813,0,2,male,35,0,0,28206,10.5,S,,,Slemen,Mr,Richard James,2SSlemen,,,1,1
+347,1,2,female,40,0,0,31418,13,S,,,Smith,Miss,Marion Elsie,2SSmith,,,1,1
+135,0,2,male,25,0,0,C.A. 29178,13,S,,,Sobey,Mr,Samuel James Hayden,2SSobey,,,1,1
+459,1,2,female,50,0,0,F.C.C. 13531,10.5,S,,,Toomey,Miss,Ellen,2SToomey,,,1,1
+735,0,2,male,23,0,0,233639,13,S,,,Troupiansky,Mr,Moses Aaron,2STroupiansky,,,1,1
+400,1,2,female,28,0,0,240929,12.65,S,,,Trout,Mrs,William H (Jessie L),2STrout,,,1,1
+718,1,2,female,27,0,0,34218,10.5,S,E,1,Troutt,Miss,"Edwina Celia ""Winnie""",2STroutt,,,1,1
+42,0,2,female,27,1,0,11668,21,S,,,Turpin,Mrs,William John Robert (Dorothy Ann Wonnacott),2STurpin,Ticket,Family,2,2
+118,0,2,male,29,1,0,11668,21,S,,,Turpin,Mr,William John Robert,2STurpin,Ticket,Family,2,2
+675,0,2,male,,0,0,239856,0,S,,,Watson,Mr,Ennis Hastings,2SWatson,,,1,1
+162,1,2,female,40,0,0,C.A. 33595,15.75,S,,,Watt,Mrs,"James (Elizabeth ""Bessie"" Inglis Milne)",2SWatt,,,1,1
+124,1,2,female,32.5,0,0,27267,13,S,E,1,Webber,Miss,Susan,2SWebber,,,1,1
+134,1,2,female,29,1,0,228414,26,S,,,Weisz,Mrs,Leopold (Mathilde Francoise Pede),2SWeisz,,,1,1
+751,1,2,female,4,1,1,29103,23,S,,,Wells,Miss,Joan,2SWells,,,1,1
+59,1,2,female,5,1,2,C.A. 34651,27.75,S,,,West,Miss,Constance Mirium,2SWest,Ticket,Family,3,3
+451,0,2,male,36,1,2,C.A. 34651,27.75,S,,,West,Mr,Edwy Arthur,2SWest,Ticket,Family,3,3
+473,1,2,female,33,1,2,C.A. 34651,27.75,S,,,West,Mrs,Edwy Arthur (Ada Mary Worth),2SWest,Ticket,Family,3,3
+34,0,2,male,66,0,0,C.A. 24579,10.5,S,,,Wheadon,Mr,Edward H,2SWheadon,,,1,1
+674,1,2,male,31,0,0,244270,13,S,,,Wilhelms,Mr,Charles,2SWilhelms,,,1,1
+18,1,2,male,,0,0,244373,13,S,,,Williams,Mr,Charles Eugene,2SWilliams,,,1,1
+200,0,2,female,24,0,0,248747,13,S,,,Yrois,Miss,"Henriette (""Mrs Harbeck"")",2SYrois,,,1,1
+208,1,3,male,26,0,0,2699,18.7875,C,,,Albimona,Mr,Nassef Cassem,3CAlbimona,Ticket,,2,1
+115,0,3,female,17,0,0,2627,14.4583,C,,,Attalah,Miss,Malake,3CAttalah,Ticket,Family,2,2
+245,0,3,male,30,0,0,2694,7.225,C,,,Attalah,Mr,Sleiman,3CAttalah,,Family,1,2
+781,1,3,female,13,0,0,2687,7.2292,C,,,Ayoub,Miss,Banoura,3CAyoub,,,1,1
+449,1,3,female,5,2,1,2666,19.2583,C,,,Baclini,Miss,Marie Catherine,3CBaclini,Ticket,Family,4,4
+470,1,3,female,0.75,2,1,2666,19.2583,C,,,Baclini,Miss,Helene Barbara,3CBaclini,Ticket,Family,4,4
+645,1,3,female,0.75,2,1,2666,19.2583,C,,,Baclini,Miss,Eugenie,3CBaclini,Ticket,Family,4,4
+859,1,3,female,24,0,3,2666,19.2583,C,,,Baclini,Mrs,Solomon (Latifa Qurban),3CBaclini,Ticket,Family,4,4
+662,0,3,male,40,0,0,2623,7.225,C,,,Badt,Mr,Mohamed,3CBadt,,,1,1
+763,1,3,male,20,0,0,2663,7.2292,C,,,Barah,Mr,Hanna Assi,3CBarah,,,1,1
+363,0,3,female,45,0,1,2691,14.4542,C,,,Barbara,Mrs,(Catherine David),3CBarbara,Ticket,Family,2,2
+703,0,3,female,18,0,1,2691,14.4542,C,,,Barbara,Miss,Saiide,3CBarbara,Ticket,Family,2,2
+379,0,3,male,20,0,0,2648,4.0125,C,,,Betros,Mr,Tannous,3CBetros,,,1,1
+599,0,3,male,,0,0,2664,7.225,C,,,Boulos,Mr,Hanna,3CBoulos,,Family,1,3
+141,0,3,female,,0,2,2678,15.2458,C,,,Boulos,Mrs,Joseph (Sultana),3CBoulos,Ticket,Family,2,3
+853,0,3,female,9,1,1,2678,15.2458,C,,,Boulos,Miss,Nourelain,3CBoulos,Ticket,Family,2,3
+579,0,3,female,,1,0,2689,14.4583,C,,,Caram,Mrs,Joseph (Maria Elias),3CCaram,,,1,1
+74,0,3,male,26,1,0,2680,14.4542,C,,,Chronopoulos,Mr,Apostolos,3CChronopoulos,,,1,1
+569,0,3,male,,0,0,2686,7.2292,C,,,Doharr,Mr,Tannous,3CDoharr,,,1,1
+131,0,3,male,33,0,0,349241,7.8958,C,,,Drazenoic,Mr,Jozef,3CDrazenoic,,,1,1
+774,0,3,male,,0,0,2674,7.225,C,,,Elias,Mr,Dibo,3CElias,,Family,1,3
+533,0,3,male,17,1,1,2690,7.2292,C,,,Elias,Mr,Joseph Jr,3CElias,,Family,1,3
+353,0,3,male,15,1,1,2695,7.2292,C,,,Elias,Mr,Tannous,3CElias,,Family,1,3
+27,0,3,male,,0,0,2631,7.225,C,,,Emir,Mr,Farred Chehab,3CEmir,,,1,1
+421,0,3,male,,0,0,349254,7.8958,C,,,Gheorgheff,Mr,Stanio,3CGheorgheff,,,1,1
+297,0,3,male,23.5,0,0,2693,7.2292,C,,,Hanna,Mr,Mansour,3CHanna,,,1,1
+732,0,3,male,11,0,0,2699,18.7875,C,,,Hassan,Mr,Houssein G N,3CHassan,Ticket,,2,1
+799,0,3,male,30,0,0,2685,7.2292,C,,,Ibrahim Shawah,Mr,Yousseff,3CIbrahim Shawah,,,1,1
+456,1,3,male,29,0,0,349240,7.8958,C,,,Jalsevac,Mr,Ivan,3CJalsevac,,,1,1
+692,1,3,female,4,0,1,349256,13.4167,C,,,Karun,Miss,Manca,3CKarun,,,1,1
+525,0,3,male,,0,0,2700,7.2292,C,,,Kassem,Mr,Fared,3CKassem,,,1,1
+43,0,3,male,,0,0,349253,7.8958,C,,,Kraeff,Mr,Theodor,3CKraeff,,,1,1
+523,0,3,male,,0,0,2624,7.225,C,,,Lahoud,Mr,Sarkis,3CLahoud,,,1,1
+554,1,3,male,22,0,0,2620,7.225,C,,,Leeni,Mr,"Fahim (""Philip Zenni"")",3CLeeni,,,1,1
+844,0,3,male,34.5,0,0,2683,6.4375,C,,,Lemberopolous,Mr,Peter L,3CLemberopolous,,,1,1
+37,1,3,male,,0,0,2677,7.2292,C,,,Mamee,Mr,Hanna,3CMamee,,,1,1
+848,0,3,male,35,0,0,349213,7.8958,C,,,Markoff,Mr,Marin,3CMarkoff,,,1,1
+20,1,3,female,,0,0,2649,7.225,C,,,Masselmani,Mrs,Fatima,3CMasselmani,,,1,1
+66,1,3,male,,1,1,2661,15.2458,C,,,Moubarek,Master,Gerios,3CMoubarek,Ticket,Family,2,2
+710,1,3,male,,1,1,2661,15.2458,C,,,Moubarek,Master,"Halim Gonios (""William George"")",3CMoubarek,Ticket,Family,2,2
+368,1,3,female,,0,0,2626,7.2292,C,,,Moussa,Mrs,(Mantoura Boulos),3CMoussa,,,1,1
+876,1,3,female,15,0,0,2667,7.225,C,,,Najib,Miss,"Adele Kiamie ""Jane""",3CNajib,,,1,1
+382,1,3,female,1,0,2,2653,15.7417,C,,,Nakid,Miss,"Maria (""Mary"")",3CNakid,Ticket,Family,2,2
+623,1,3,male,20,1,1,2653,15.7417,C,,,Nakid,Mr,Sahid,3CNakid,Ticket,Family,2,2
+40,1,3,female,14,1,0,2651,11.2417,C,,,Nicola-Yarred,Miss,Jamila,3CNicola-Yarred,Ticket,Family,2,2
+126,1,3,male,12,1,0,2651,11.2417,C,,,Nicola-Yarred,Master,Elias,3CNicola-Yarred,Ticket,Family,2,2
+58,0,3,male,28.5,0,0,2697,7.2292,C,,,Novel,Mr,Mansouer,3CNovel,,,1,1
+585,0,3,male,,0,0,3411,8.7125,C,,,Paulner,Mr,Uscher,3CPaulner,,,1,1
+129,1,3,female,,1,1,2668,22.3583,C,F,2,Peter,Miss,Anna,3CPeter,Ticket,Family,2,2
+534,1,3,female,,0,2,2668,22.3583,C,,,Peter,Mrs,Catherine (Catherine Rizk),3CPeter,Ticket,Family,2,2
+860,0,3,male,,0,0,2629,7.2292,C,,,Razi,Mr,Raihed,3CRazi,,,1,1
+833,0,3,male,,0,0,2671,7.2292,C,,,Saad,Mr,Amin,3CSaad,,Family,1,2
+694,0,3,male,25,0,0,2672,7.225,C,,,Saad,Mr,Khalil,3CSaad,,Family,1,2
+49,0,3,male,,2,0,2662,21.6792,C,,,Samaan,Mr,Youssef,3CSamaan,,,1,1
+61,0,3,male,22,0,0,2669,7.2292,C,,,Sirayanian,Mr,Orsen,3CSirayanian,,,1,1
+286,0,3,male,33,0,0,349239,8.6625,C,,,Stankovic,Mr,Ivan,3CStankovic,,,1,1
+804,1,3,male,0.42,0,1,2625,8.5167,C,,,Thomas,Master,Assad Alexander,3CThomas,,,1,1
+532,0,3,male,,0,0,2641,7.2292,C,,,Toufik,Mr,Nakli,3CToufik,,,1,1
+256,1,3,female,29,0,2,2650,15.2458,C,,,Touma,Mrs,Darwis (Hanne Youssef Razi),3CTouma,,,1,1
+621,0,3,male,27,1,0,2659,14.4542,C,,,Yasbeck,Mr,Antoni,3CYasbeck,Ticket,Family,2,2
+831,1,3,female,15,1,0,2659,14.4542,C,,,Yasbeck,Mrs,Antoni (Selini Alexander),3CYasbeck,Ticket,Family,2,2
+204,0,3,male,45.5,0,0,2628,7.225,C,,,Youseff,Mr,Gerious,3CYouseff,,,1,1
+355,0,3,male,,0,0,2647,7.225,C,,,Yousif,Mr,Wazli,3CYousif,,,1,1
+496,0,3,male,,0,0,2627,14.4583,C,,,Yousseff,Mr,Gerious,3CYousseff,Ticket,,2,1
+112,0,3,female,14.5,1,0,2665,14.4542,C,,,Zabour,Miss,Hileni,3CZabour,Ticket,Family,2,2
+241,0,3,female,,1,0,2665,14.4542,C,,,Zabour,Miss,Thamine,3CZabour,Ticket,Family,2,2
+594,0,3,female,,0,2,364848,7.75,Q,,,Bourke,Miss,Mary,3QBourke,,Family,1,3
+189,0,3,male,40,1,1,364849,15.5,Q,,,Bourke,Mr,John,3QBourke,Ticket,Family,2,3
+658,0,3,female,32,1,1,364849,15.5,Q,,,Bourke,Mrs,John (Catherine),3QBourke,Ticket,Family,2,3
+144,0,3,male,19,0,0,365222,6.75,Q,,,Burke,Mr,Jeremiah,3QBurke,,,1,1
+502,0,3,female,21,0,0,364846,7.75,Q,,,Canavan,Miss,Mary,3QCanavan,,,1,1
+209,1,3,female,16,0,0,367231,7.75,Q,,,Carr,Miss,"Helen ""Ellen""",3QCarr,,,1,1
+422,0,3,male,21,0,0,A/5. 13032,7.7333,Q,,,Charters,Mr,David,3QCharters,,,1,1
+750,0,3,male,31,0,0,335097,7.75,Q,,,Connaghton,Mr,Michael,3QConnaghton,,,1,1
+290,1,3,female,22,0,0,370373,7.75,Q,,,Connolly,Miss,Kate,3QConnolly,,,1,1
+117,0,3,male,70.5,0,0,370369,7.75,Q,,,Connors,Mr,Patrick,3QConnors,,,1,1
+511,1,3,male,29,0,0,382651,7.75,Q,,,Daly,Mr,Eugene Patrick,3QDaly,,,1,1
+45,1,3,female,19,0,0,330958,7.8792,Q,,,Devaney,Miss,Margaret Delia,3QDevaney,,,1,1
+891,0,3,male,32,0,0,370376,7.75,Q,,,Dooley,Mr,Patrick,3QDooley,,,1,1
+281,0,3,male,65,0,0,336439,7.75,Q,,,Duane,Mr,Frank,3QDuane,,,1,1
+526,0,3,male,40.5,0,0,367232,7.75,Q,,,Farrell,Mr,James,3QFarrell,,,1,1
+429,0,3,male,,0,0,364851,7.75,Q,,,Flynn,Mr,James,3QFlynn,,Family,1,2
+826,0,3,male,,0,0,368323,6.95,Q,,,Flynn,Mr,John,3QFlynn,,Family,1,2
+704,0,3,male,25,0,0,36864,7.7417,Q,,,Gallagher,Mr,Martin,3QGallagher,,,1,1
+157,1,3,female,16,0,0,35851,7.7333,Q,,,Gilnagh,Miss,"Katherine ""Katie""",3QGilnagh,,,1,1
+33,1,3,female,,0,0,335677,7.75,Q,,,Glynn,Miss,Mary Agatha,3QGlynn,,,1,1
+412,0,3,male,,0,0,394140,6.8583,Q,,,Hart,Mr,Henry,3QHart,,,1,1
+275,1,3,female,,0,0,370375,7.75,Q,,,Healy,Miss,"Hanora ""Nora""",3QHealy,,,1,1
+655,0,3,female,18,0,0,365226,6.75,Q,,,Hegarty,Miss,"Hanora ""Nora""",3QHegarty,,,1,1
+265,0,3,female,,0,0,382649,7.75,Q,,,Henry,Miss,Delia,3QHenry,,,1,1
+614,0,3,male,,0,0,370377,7.75,Q,,,Horgan,Mr,John,3QHorgan,,,1,1
+369,1,3,female,,0,0,14313,7.75,Q,,,Jermyn,Miss,Annie,3QJermyn,,,1,1
+791,0,3,male,,0,0,12460,7.75,Q,,,Keane,Mr,"Andrew ""Andy""",3QKeane,,,1,1
+301,1,3,female,,0,0,9234,7.75,Q,,,Kelly,Miss,"Anna Katherine ""Annie Kate""",3QKelly,,Family,1,2
+574,1,3,female,,0,0,14312,7.75,Q,,,Kelly,Miss,Mary,3QKelly,,Family,1,2
+215,0,3,male,,1,0,367229,7.75,Q,,,Kiernan,Mr,Philip,3QKiernan,,,1,1
+779,0,3,male,,0,0,36865,7.7375,Q,,,Kilgannon,Mr,Thomas J,3QKilgannon,,,1,1
+47,0,3,male,,1,0,370371,15.5,Q,,,Lennon,Mr,Denis,3QLennon,,,1,1
+199,1,3,female,,0,0,370370,7.75,Q,,,Madigan,Miss,"Margaret ""Maggie""",3QMadigan,,,1,1
+768,0,3,female,30.5,0,0,364850,7.75,Q,,,Mangan,Miss,Mary,3QMangan,,,1,1
+728,1,3,female,,0,0,36866,7.7375,Q,,,Mannion,Miss,Margareth,3QMannion,,,1,1
+829,1,3,male,,0,0,367228,7.75,Q,,,McCormack,Mr,Thomas Joseph,3QMcCormack,,,1,1
+302,1,3,male,,2,0,367226,23.25,Q,,,McCoy,Mr,Bernard,3QMcCoy,Ticket,Family,2,2
+331,1,3,female,,2,0,367226,23.25,Q,,,McCoy,Miss,Agnes,3QMcCoy,Ticket,Family,2,2
+83,1,3,female,,0,0,330932,7.7875,Q,,,McDermott,Miss,Brigdet Delia,3QMcDermott,,,1,1
+719,0,3,male,,0,0,36568,15.5,Q,,,McEvoy,Mr,Michael,3QMcEvoy,,,1,1
+359,1,3,female,,0,0,330931,7.8792,Q,,,McGovern,Miss,Mary,3QMcGovern,,,1,1
+23,1,3,female,15,0,0,330923,8.0292,Q,,,McGowan,Miss,"Anna ""Annie""",3QMcGowan,,,1,1
+127,0,3,male,,0,0,370372,7.75,Q,,,McMahon,Mr,Martin,3QMcMahon,,,1,1
+197,0,3,male,,0,0,368703,7.75,Q,,,Mernagh,Mr,Robert,3QMernagh,,,1,1
+360,1,3,female,,0,0,330980,7.8792,Q,,,Mockler,Miss,"Helen Mary ""Ellie""",3QMockler,,,1,1
+6,0,3,male,,0,0,330877,8.4583,Q,,,Moran,Mr,James,3QMoran,,Family,1,3
+110,1,3,female,,1,0,371110,24.15,Q,,,Moran,Miss,Bertha,3QMoran,Ticket,Family,3,3
+769,0,3,male,,1,0,371110,24.15,Q,,,Moran,Mr,Daniel J,3QMoran,Ticket,Family,3,3
+561,0,3,male,,0,0,372622,7.75,Q,,,Morrow,Mr,Thomas Rowan,3QMorrow,,,1,1
+698,1,3,female,,0,0,35852,7.7333,Q,,,Mullens,Miss,"Katherine ""Katie""",3QMullens,,,1,1
+242,1,3,female,,1,0,367230,15.5,Q,,,Murphy,Miss,"Katherine ""Kate""",3QMurphy,Ticket,Family,2,2
+613,1,3,female,,1,0,367230,15.5,Q,,,Murphy,Miss,Margaret Jane,3QMurphy,Ticket,Family,2,2
+553,0,3,male,,0,0,330979,7.8292,Q,,,O'Brien,Mr,Timothy,3QO'Brien,,Family,1,3
+187,1,3,female,,1,0,370365,15.5,Q,,,O'Brien,Mrs,"Thomas (Johanna ""Hannah"" Godfrey)",3QO'Brien,Ticket,Family,2,3
+365,0,3,male,,1,0,370365,15.5,Q,,,O'Brien,Mr,Thomas,3QO'Brien,Ticket,Family,2,3
+630,0,3,male,,0,0,334912,7.7333,Q,,,O'Connell,Mr,Patrick D,3QO'Connell,,,1,1
+460,0,3,male,,0,0,371060,7.75,Q,,,O'Connor,Mr,Maurice,3QO'Connor,,,1,1
+48,1,3,female,,0,0,14311,7.75,Q,,,O'Driscoll,Miss,Bridget,3QO'Driscoll,,,1,1
+29,1,3,female,,0,0,330959,7.8792,Q,,,O'Dwyer,Miss,"Ellen ""Nellie""",3QO'Dwyer,,,1,1
+654,1,3,female,,0,0,330919,7.8292,Q,,,O'Leary,Miss,"Hanora ""Norah""",3QO'Leary,,,1,1
+503,0,3,female,,0,0,330909,7.6292,Q,,,O'Sullivan,Miss,Bridget Mary,3QO'Sullivan,,,1,1
+681,0,3,female,,0,0,330935,8.1375,Q,,,Peters,Miss,Katie,3QPeters,,,1,1
+17,0,3,male,2,4,1,382652,29.125,Q,,,Rice,Master,Eugene,3QRice,Ticket,Family,5,5
+172,0,3,male,4,4,1,382652,29.125,Q,,,Rice,Master,Arthur,3QRice,Ticket,Family,5,5
+279,0,3,male,7,4,1,382652,29.125,Q,,,Rice,Master,Eric,3QRice,Ticket,Family,5,5
+788,0,3,male,8,4,1,382652,29.125,Q,,,Rice,Master,George Hugh,3QRice,Ticket,Family,5,5
+886,0,3,female,39,0,5,382652,29.125,Q,,,Rice,Mrs,William (Margaret Norton),3QRice,Ticket,Family,5,5
+518,0,3,male,,0,0,371110,24.15,Q,,,Ryan,Mr,Patrick,3QRyan,Ticket,,3,1
+389,0,3,male,,0,0,367655,7.7292,Q,,,Sadlier,Mr,Matthew,3QSadlier,,,1,1
+469,0,3,male,,0,0,36209,7.725,Q,,,Scanlan,Mr,James,3QScanlan,,,1,1
+261,0,3,male,,0,0,384461,7.75,Q,,,Smith,Mr,Thomas,3QSmith,,,1,1
+777,0,3,male,,0,0,383121,7.75,Q,F,1,Tobin,Mr,Roger,3QTobin,,,1,1
+846,0,3,male,42,0,0,C.A. 5547,7.55,S,,,Abbing,Mr,Anthony,3SAbbing,,,1,1
+280,1,3,female,35,1,1,C.A. 2673,20.25,S,,,Abbott,Mrs,Stanton (Rosa Hunt),3SAbbott,Ticket,Family,2,2
+747,0,3,male,16,1,1,C.A. 2673,20.25,S,,,Abbott,Mr,Rossmore Edward,3SAbbott,Ticket,Family,2,2
+366,0,3,male,30,0,0,C 7076,7.25,S,,,Adahl,Mr,Mauritz Nils Martin,3SAdahl,,,1,1
+402,0,3,male,26,0,0,341826,8.05,S,,,Adams,Mr,John,3SAdams,,,1,1
+41,0,3,female,40,1,0,7546,9.475,S,,,Ahlin,Mrs,Johan (Johanna Persdotter Larsson),3SAhlin,,,1,1
+856,1,3,female,18,0,1,392091,9.35,S,,,Aks,Mrs,Sam (Leah Rosen),3SAks,,,1,1
+811,0,3,male,26,0,0,3474,7.8875,S,,,Alexander,Mr,William,3SAlexander,,,1,1
+841,0,3,male,20,0,0,SOTON/O2 3101287,7.925,S,,,Alhomaki,Mr,Ilmari Rudolf,3SAlhomaki,,,1,1
+211,0,3,male,24,0,0,SOTON/O.Q. 3101311,7.05,S,,,Ali,Mr,Ahmed,3SAli,,Family,1,2
+785,0,3,male,25,0,0,SOTON/O.Q. 3101312,7.05,S,,,Ali,Mr,William,3SAli,,Family,1,2
+5,0,3,male,35,0,0,373450,8.05,S,,,Allen,Mr,William Henry,3SAllen,,,1,1
+835,0,3,male,18,0,0,2223,8.3,S,,,Allum,Mr,Owen George,3SAllum,,,1,1
+193,1,3,female,19,1,0,350046,7.8542,S,,,Andersen-Jensen,Miss,Carla Christine Nielsine,3SAndersen-Jensen,,,1,1
+14,0,3,male,39,1,5,347082,31.275,S,,,Andersson,Mr,Anders Johan,3SAndersson,Ticket,Family,7,9
+120,0,3,female,2,4,2,347082,31.275,S,,,Andersson,Miss,Ellis Anna Maria,3SAndersson,Ticket,Family,7,9
+542,0,3,female,9,4,2,347082,31.275,S,,,Andersson,Miss,Ingeborg Constanzia,3SAndersson,Ticket,Family,7,9
+543,0,3,female,11,4,2,347082,31.275,S,,,Andersson,Miss,Sigrid Elisabeth,3SAndersson,Ticket,Family,7,9
+611,0,3,female,39,1,5,347082,31.275,S,,,Andersson,Mrs,Anders Johan (Alfrida Konstantia Brogren),3SAndersson,Ticket,Family,7,9
+814,0,3,female,6,4,2,347082,31.275,S,,,Andersson,Miss,Ebba Iris Alfrida,3SAndersson,Ticket,Family,7,9
+851,0,3,male,4,4,2,347082,31.275,S,,,Andersson,Master,Sigvard Harald Elias,3SAndersson,Ticket,Family,7,9
+147,1,3,male,27,0,0,350043,7.7958,S,,,Andersson,Mr,"August Edvard (""Wennerstrom"")",3SAndersson,,Family,1,9
+69,1,3,female,17,4,2,3101281,7.925,S,,,Andersson,Miss,Erna Alexandra,3SAndersson,,Family,1,9
+92,0,3,male,20,0,0,347466,7.8542,S,,,Andreasson,Mr,Paul Edvin,3SAndreasson,,,1,1
+50,0,3,female,18,1,0,349237,17.8,S,,,Arnold-Franchi,Mrs,Josef (Josefine Franchi),3SArnold-Franchi,Ticket,Family,2,2
+354,0,3,male,25,1,0,349237,17.8,S,,,Arnold-Franchi,Mr,Josef,3SArnold-Franchi,Ticket,Family,2,2
+364,0,3,male,35,0,0,SOTON/O.Q. 3101310,7.05,S,,,Asim,Mr,Adola,3SAsim,,,1,1
+26,1,3,female,38,1,5,347077,31.3875,S,,,Asplund,Mrs,Carl Oscar (Selma Augusta Emilia Johansson),3SAsplund,Ticket,Family,4,4
+183,0,3,male,9,4,2,347077,31.3875,S,,,Asplund,Master,Clarence Gustaf Hugo,3SAsplund,Ticket,Family,4,4
+234,1,3,female,5,4,2,347077,31.3875,S,,,Asplund,Miss,Lillian Gertrud,3SAsplund,Ticket,Family,4,4
+262,1,3,male,3,4,2,347077,31.3875,S,,,Asplund,Master,Edvin Rojj Felix,3SAsplund,Ticket,Family,4,4
+834,0,3,male,23,0,0,347468,7.8542,S,,,Augustsson,Mr,Albert,3SAugustsson,,,1,1
+86,1,3,female,33,3,0,3101278,15.85,S,,,Backstrom,Mrs,Karl Alfred (Maria Mathilda Gustafsson),3SBackstrom,Ticket,Family,2,2
+207,0,3,male,32,1,0,3101278,15.85,S,,,Backstrom,Mr,Karl Alfred,3SBackstrom,Ticket,Family,2,2
+871,0,3,male,26,0,0,349248,7.8958,S,,,Balkic,Mr,Cerin,3SBalkic,,,1,1
+113,0,3,male,22,0,0,324669,8.05,S,,,Barton,Mr,David John,3SBarton,,,1,1
+373,0,3,male,19,0,0,323951,8.05,S,,,Beavan,Mr,William Thomas,3SBeavan,,,1,1
+163,0,3,male,26,0,0,347068,7.775,S,,,Bengtsson,Mr,John Viktor,3SBengtsson,,,1,1
+226,0,3,male,22,0,0,PP 4348,9.35,S,,,Berglund,Mr,Karl Ivar Sven,3SBerglund,,,1,1
+75,1,3,male,32,0,0,1601,56.4958,S,,,Bing,Mr,Lee,3SBing,Ticket,,7,1
+409,0,3,male,21,0,0,312992,7.775,S,,,Birkeland,Mr,Hans Martin Monsen,3SBirkeland,,,1,1
+629,0,3,male,26,0,0,349224,7.8958,S,,,Bostandyeff,Mr,Guentcho,3SBostandyeff,,,1,1
+625,0,3,male,21,0,0,54636,16.1,S,,,Bowen,Mr,"David John ""Dai""",3SBowen,Ticket,,2,1
+478,0,3,male,29,1,0,3460,7.0458,S,,,Braund,Mr,Lewis Richard,3SBraund,,Family,1,2
+1,0,3,male,22,1,0,A/5 21171,7.25,S,,,Braund,Mr,Owen Harris,3SBraund,,Family,1,2
+615,0,3,male,35,0,0,364512,8.05,S,,,Brocklebank,Mr,William Alfred,3SBrocklebank,,,1,1
+535,0,3,female,30,0,0,315084,8.6625,S,,,Cacic,Miss,Marija,3SCacic,,Family,1,2
+472,0,3,male,38,0,0,315089,8.6625,S,,,Cacic,Mr,Luka,3SCacic,,Family,1,2
+501,0,3,male,17,0,0,315086,8.6625,S,,,Calic,Mr,Petar,3SCalic,,Family,1,2
+164,0,3,male,17,0,0,315093,8.6625,S,,,Calic,Mr,Jovo,3SCalic,,Family,1,2
+38,0,3,male,21,0,0,A./5. 2152,8.05,S,,,Cann,Mr,Ernest Charles,3SCann,,,1,1
+757,0,3,male,28,0,0,350042,7.7958,S,,,Carlsson,Mr,August Sigfrid,3SCarlsson,,,1,1
+90,0,3,male,24,0,0,343275,8.05,S,,,Celotti,Mr,Francesco,3SCelotti,,,1,1
+839,1,3,male,32,0,0,1601,56.4958,S,,,Chip,Mr,Chang,3SChip,Ticket,,7,1
+91,0,3,male,29,0,0,343276,8.05,S,,,Christmann,Mr,Emil,3SChristmann,,,1,1
+132,0,3,male,20,0,0,SOTON/O.Q. 3101307,7.05,S,,,Coelho,Mr,Domingos Fernandeo,3SCoelho,,,1,1
+205,1,3,male,18,0,0,A/5 3540,8.05,S,,,Cohen,Mr,"Gurshon ""Gus""",3SCohen,,,1,1
+515,0,3,male,24,0,0,349209,7.4958,S,,,Coleff,Mr,Satio,3SColeff,,Family,1,2
+664,0,3,male,36,0,0,349210,7.4958,S,,,Coleff,Mr,Peju,3SColeff,,Family,1,2
+669,0,3,male,43,0,0,A/5 3536,8.05,S,,,Cook,Mr,Jacob,3SCook,,,1,1
+647,0,3,male,19,0,0,349231,7.8958,S,,,Cor,Mr,Liudevit,3SCor,,,1,1
+158,0,3,male,30,0,0,SOTON/OQ 392090,8.05,S,,,Corn,Mr,Harry,3SCorn,,,1,1
+349,1,3,male,3,1,1,C.A. 37671,15.9,S,,,Coutts,Master,"William Loch ""William""",3SCoutts,Ticket,Family,2,2
+490,1,3,male,9,1,1,C.A. 37671,15.9,S,,,Coutts,Master,"Eden Leslie ""Neville""",3SCoutts,Ticket,Family,2,2
+95,0,3,male,59,0,0,364500,7.25,S,,,Coxon,Mr,Daniel,3SCoxon,,,1,1
+68,0,3,male,19,0,0,S.P. 3464,8.1583,S,,,Crease,Mr,Ernest James,3SCrease,,,1,1
+161,0,3,male,44,0,1,371362,16.1,S,,,Cribb,Mr,John Hatfield,3SCribb,,,1,1
+845,0,3,male,17,0,0,315090,8.6625,S,,,Culumovic,Mr,Jeso,3SCulumovic,,,1,1
+339,1,3,male,45,0,0,7598,8.05,S,,,Dahl,Mr,Karl Edwart,3SDahl,,,1,1
+883,0,3,female,22,0,0,7552,10.5167,S,,,Dahlberg,Miss,Gerda Ulrika,3SDahlberg,,,1,1
+688,0,3,male,19,0,0,349228,10.1708,S,,,Dakic,Mr,Branko,3SDakic,,,1,1
+424,0,3,female,28,1,1,347080,14.4,S,,,Danbom,Mrs,Ernst Gilbert (Anna Sigrid Maria Brogren),3SDanbom,Ticket,Family,2,2
+617,0,3,male,34,1,1,347080,14.4,S,,,Danbom,Mr,Ernst Gilbert,3SDanbom,Ticket,Family,2,2
+322,0,3,male,27,0,0,349219,7.8958,S,,,Danoff,Mr,Yoto,3SDanoff,,,1,1
+795,0,3,male,25,0,0,349203,7.8958,S,,,Dantcheff,Mr,Ristiu,3SDantcheff,,,1,1
+566,0,3,male,24,2,0,A/4 48871,24.15,S,,,Davies,Mr,Alfred J,3SDavies,Ticket,,2,1
+348,1,3,female,,1,0,386525,16.1,S,,,Davison,Mrs,Thomas Henry (Mary E Finck),3SDavison,,,1,1
+560,1,3,female,36,1,0,345572,17.4,S,,,de Messemaeker,Mrs,Guillaume Joseph (Emma),3Sde Messemaeker,,,1,1
+287,1,3,male,30,0,0,345774,9.5,S,,,de Mulder,Mr,Theodore,3Sde Mulder,,,1,1
+283,0,3,male,16,0,0,345778,9.5,S,,,de Pelsmaeker,Mr,Alfons,3Sde Pelsmaeker,,,1,1
+94,0,3,male,26,1,2,C.A. 2315,20.575,S,,,Dean,Mr,Bertram Frank,3SDean,Ticket,Family,2,2
+789,1,3,male,1,1,2,C.A. 2315,20.575,S,,,Dean,Master,Bertram Vere,3SDean,Ticket,Family,2,2
+336,0,3,male,,0,0,349225,7.8958,S,,,Denkoff,Mr,Mitto,3SDenkoff,,,1,1
+321,0,3,male,22,0,0,A/5 21172,7.25,S,,,Dennis,Mr,Samuel,3SDennis,,,1,1
+350,0,3,male,42,0,0,315088,8.6625,S,,,Dimic,Mr,Jovan,3SDimic,,,1,1
+284,1,3,male,19,0,0,A/5. 10482,8.05,S,,,Dorking,Mr,Edward Arthur,3SDorking,,,1,1
+80,1,3,female,30,0,0,364516,12.475,S,,,Dowdell,Miss,Elizabeth,3SDowdell,Ticket,,2,1
+676,0,3,male,18,0,0,349912,7.775,S,,,Edvardsson,Mr,Gustaf Hjalmar,3SEdvardsson,,,1,1
+765,0,3,male,16,0,0,347074,7.775,S,,,Eklund,Mr,Hans Linus,3SEklund,,,1,1
+130,0,3,male,45,0,0,347061,6.975,S,,,Ekstrom,Mr,Johan,3SEkstrom,,,1,1
+593,0,3,male,47,0,0,A/5 3902,7.25,S,,,Elsbury,Mr,William James,3SElsbury,,,1,1
+778,1,3,female,5,0,0,364516,12.475,S,,,Emanuel,Miss,Virginia Ethel,3SEmanuel,Ticket,,2,1
+689,0,3,male,18,0,0,350036,7.7958,S,,,Fischer,Mr,Eberhard Thelander,3SFischer,,,1,1
+644,1,3,male,,0,0,1601,56.4958,S,,,Foo,Mr,Choong,3SFoo,Ticket,,7,1
+87,0,3,male,16,1,3,W./C. 6608,34.375,S,,,Ford,Mr,William Neal,3SFord,Ticket,Family,4,4
+148,0,3,female,9,2,2,W./C. 6608,34.375,S,,,Ford,Miss,"Robina Maggie ""Ruby""",3SFord,Ticket,Family,4,4
+437,0,3,female,21,2,2,W./C. 6608,34.375,S,,,Ford,Miss,"Doolina Margaret ""Daisy""",3SFord,Ticket,Family,4,4
+737,0,3,female,48,1,3,W./C. 6608,34.375,S,,,Ford,Mrs,Edward (Margaret Ann Watson),3SFord,Ticket,Family,4,4
+761,0,3,male,,0,0,358585,14.5,S,,,Garfirth,Mr,John,3SGarfirth,Ticket,,2,1
+589,0,3,male,22,0,0,14973,8.05,S,,,Gilinski,Mr,Eliezer,3SGilinski,,,1,1
+166,1,3,male,9,0,2,363291,20.525,S,,,Goldsmith,Master,"Frank John William ""Frankie""",3SGoldsmith,Ticket,Family,3,3
+329,1,3,female,31,1,1,363291,20.525,S,,,Goldsmith,Mrs,Frank John (Emily Alice Brown),3SGoldsmith,Ticket,Family,3,3
+549,0,3,male,33,1,1,363291,20.525,S,,,Goldsmith,Mr,Frank John,3SGoldsmith,Ticket,Family,3,3
+466,0,3,male,38,0,0,SOTON/O.Q. 3101306,7.05,S,,,Goncalves,Mr,Manuel Estanslas,3SGoncalves,,,1,1
+60,0,3,male,11,5,2,CA 2144,46.9,S,,,Goodwin,Master,William Frederick,3SGoodwin,Ticket,Family,6,6
+72,0,3,female,16,5,2,CA 2144,46.9,S,,,Goodwin,Miss,Lillian Amy,3SGoodwin,Ticket,Family,6,6
+387,0,3,male,1,5,2,CA 2144,46.9,S,,,Goodwin,Master,Sidney Leonard,3SGoodwin,Ticket,Family,6,6
+481,0,3,male,9,5,2,CA 2144,46.9,S,,,Goodwin,Master,Harold Victor,3SGoodwin,Ticket,Family,6,6
+679,0,3,female,43,1,6,CA 2144,46.9,S,,,Goodwin,Mrs,Frederick (Augusta Tyler),3SGoodwin,Ticket,Family,6,6
+684,0,3,male,14,5,2,CA 2144,46.9,S,,,Goodwin,Mr,Charles Edward,3SGoodwin,Ticket,Family,6,6
+223,0,3,male,51,0,0,21440,8.05,S,,,Green,Mr,George Henry,3SGreen,,,1,1
+770,0,3,male,32,0,0,8471,8.3625,S,,,Gronnestad,Mr,Daniel Danielsen,3SGronnestad,,,1,1
+877,0,3,male,20,0,0,7534,9.8458,S,,,Gustafsson,Mr,Alfred Ossian,3SGustafsson,Ticket,Family,2,4
+380,0,3,male,19,0,0,347069,7.775,S,,,Gustafsson,Mr,Karl Gideon,3SGustafsson,,Family,1,4
+105,0,3,male,37,2,0,3101276,7.925,S,,,Gustafsson,Mr,Anders Vilhelm,3SGustafsson,,Family,1,4
+393,0,3,male,28,2,0,3101277,7.925,S,,,Gustafsson,Mr,Johan Birger,3SGustafsson,,Family,1,4
+294,0,3,female,24,0,0,349236,8.85,S,,,Haas,Miss,Aloisia,3SHaas,,,1,1
+452,0,3,male,,1,0,65303,19.9667,S,,,Hagland,Mr,Ingvald Olai Olsen,3SHagland,,Family,1,2
+491,0,3,male,,1,0,65304,19.9667,S,,,Hagland,Mr,Konrad Mathias Reiersen,3SHagland,,Family,1,2
+143,1,3,female,24,1,0,STON/O2. 3101279,15.85,S,,,Hakkarainen,Mrs,Pekka Pietari (Elin Matilda Dolck),3SHakkarainen,Ticket,Family,2,2
+404,0,3,male,28,1,0,STON/O2. 3101279,15.85,S,,,Hakkarainen,Mr,Pekka Pietari,3SHakkarainen,Ticket,Family,2,2
+442,0,3,male,20,0,0,345769,9.5,S,,,Hampe,Mr,Leon,3SHampe,,,1,1
+705,0,3,male,26,1,0,350025,7.8542,S,,,Hansen,Mr,Henrik Juul,3SHansen,,Family,1,3
+861,0,3,male,41,2,0,350026,14.1083,S,,,Hansen,Mr,Claus Peter,3SHansen,,Family,1,3
+624,0,3,male,21,0,0,350029,7.8542,S,,,Hansen,Mr,Henry Damsgaard,3SHansen,,Family,1,3
+236,0,3,female,,0,0,W./C. 6609,7.55,S,,,Harknett,Miss,Alice Phoebe,3SHarknett,,,1,1
+786,0,3,male,25,0,0,374887,7.25,S,,,Harmer,Mr,Abraham (David Lishin),3SHarmer,,,1,1
+805,1,3,male,27,0,0,347089,6.975,S,,,Hedman,Mr,Oskar Arvid,3SHedman,,,1,1
+3,1,3,female,26,0,0,STON/O2. 3101282,7.925,S,,,Heikkinen,Miss,Laina,3SHeikkinen,,,1,1
+817,0,3,female,23,0,0,STON/O2. 3101290,7.925,S,,,Heininen,Miss,Wendla Maria,3SHeininen,,,1,1
+314,0,3,male,28,0,0,349243,7.8958,S,,,Hendekovic,Mr,Ignjac,3SHendekovic,,,1,1
+480,1,3,female,2,0,1,3101298,12.2875,S,,,Hirvonen,Miss,Hildur E,3SHirvonen,,,1,1
+819,0,3,male,43,0,0,C 7075,6.45,S,,,Holm,Mr,John Fredrik Alexander,3SHolm,,,1,1
+217,1,3,female,27,0,0,STON/O2. 3101283,7.925,S,,,Honkanen,Miss,Eliina,3SHonkanen,,,1,1
+700,0,3,male,42,0,0,348121,7.65,S,F,2,Humblen,Mr,Adolf Mathias Nicolai Olsen,3SHumblen,,,1,1
+730,0,3,female,25,1,0,STON/O2. 3101271,7.925,S,,,Ilmakangas,Miss,Pieta Sofia,3SIlmakangas,,,1,1
+739,0,3,male,,0,0,349201,7.8958,S,,,Ivanoff,Mr,Kanio,3SIvanoff,,,1,1
+392,1,3,male,21,0,0,350034,7.7958,S,,,Jansson,Mr,Carl Olof,3SJansson,,,1,1
+612,0,3,male,,0,0,SOTON/O.Q. 3101305,7.05,S,,,Jardin,Mr,Jose Neto,3SJardin,,,1,1
+772,0,3,male,48,0,0,350047,7.8542,S,,,Jensen,Mr,Niels Peder,3SJensen,,Family,1,3
+722,0,3,male,17,1,0,350048,7.0542,S,,,Jensen,Mr,Svend Lauritz,3SJensen,,Family,1,3
+641,0,3,male,20,0,0,350050,7.8542,S,,,Jensen,Mr,Hans Peder,3SJensen,,Family,1,3
+445,1,3,male,,0,0,65306,8.1125,S,,,Johannesen-Bratthammer,Mr,Bernt,3SJohannesen-Bratthammer,,,1,1
+203,0,3,male,34,0,0,3101264,6.4958,S,,,Johanson,Mr,Jakob Alfred,3SJohanson,,,1,1
+104,0,3,male,33,0,0,7540,8.6542,S,,,Johansson,Mr,Gustaf Joel,3SJohansson,,Family,1,3
+806,0,3,male,31,0,0,347063,7.775,S,,,Johansson,Mr,Karl Johan,3SJohansson,,Family,1,3
+396,0,3,male,22,0,0,350052,7.7958,S,,,Johansson,Mr,Erik,3SJohansson,,Family,1,3
+720,0,3,male,33,0,0,347062,7.775,S,,,Johnson,Mr,Malkolm Joackim,3SJohnson,,Family,1,6
+9,1,3,female,27,0,2,347742,11.1333,S,,,Johnson,Mrs,Oscar W (Elisabeth Vilhelmina Berg),3SJohnson,Ticket,Family,3,6
+173,1,3,female,1,1,1,347742,11.1333,S,,,Johnson,Miss,Eleanor Ileen,3SJohnson,Ticket,Family,3,6
+870,1,3,male,4,1,1,347742,11.1333,S,,,Johnson,Master,Harold Theodor,3SJohnson,Ticket,Family,3,6
+303,0,3,male,19,0,0,LINE,0,S,,,Johnson,Mr,William Cahoone Jr,3SJohnson,Ticket,Family,4,6
+598,0,3,male,49,0,0,LINE,0,S,,,Johnson,Mr,Alfred,3SJohnson,Ticket,Family,4,6
+784,0,3,male,,1,2,W./C. 6607,23.45,S,,,Johnston,Mr,Andrew G,3SJohnston,Ticket,Family,2,2
+889,0,3,female,,1,2,W./C. 6607,23.45,S,,,Johnston,Miss,"Catherine Helen ""Carrie""",3SJohnston,Ticket,Family,2,2
+754,0,3,male,23,0,0,349204,7.8958,S,,,Jonkoff,Mr,Lalio,3SJonkoff,,,1,1
+570,1,3,male,32,0,0,350417,7.8542,S,,,Jonsson,Mr,Carl,3SJonsson,,,1,1
+114,0,3,female,20,1,0,4136,9.825,S,,,Jussila,Miss,Katriina,3SJussila,,Family,1,3
+403,0,3,female,21,1,0,4137,9.825,S,,,Jussila,Miss,Mari Aina,3SJussila,,Family,1,3
+580,1,3,male,32,0,0,STON/O 2. 3101286,7.925,S,,,Jussila,Mr,Eiriik,3SJussila,,Family,1,3
+434,0,3,male,17,0,0,STON/O 2. 3101274,7.125,S,,,Kallio,Mr,Nikolai Erland,3SKallio,,,1,1
+653,0,3,male,21,0,0,8475,8.4333,S,,,Kalvik,Mr,Johannes Halvorsen,3SKalvik,,,1,1
+607,0,3,male,30,0,0,349246,7.8958,S,,,Karaic,Mr,Milan,3SKaraic,,,1,1
+479,0,3,male,22,0,0,350060,7.5208,S,,,Karlsson,Mr,Nils August,3SKarlsson,,,1,1
+471,0,3,male,,0,0,323592,7.25,S,,,Keefe,Mr,Arthur,3SKeefe,,,1,1
+697,0,3,male,44,0,0,363592,8.05,S,,,Kelly,Mr,James,3SKelly,,,1,1
+70,0,3,male,26,2,0,315151,8.6625,S,,,Kink,Mr,Vincenz,3SKink,,,1,1
+185,1,3,female,4,0,2,315153,22.025,S,,,Kink-Heilmann,Miss,Luise Gretchen,3SKink-Heilmann,,,1,1
+176,0,3,male,18,1,1,350404,7.8542,S,,,Klasen,Mr,Klas Albin,3SKlasen,,,1,1
+504,0,3,female,37,0,0,4135,9.5875,S,,,Laitinen,Miss,Kristina Sofia,3SLaitinen,,,1,1
+879,0,3,male,,0,0,349217,7.8958,S,,,Laleff,Mr,Kristo,3SLaleff,,,1,1
+693,1,3,male,,0,0,1601,56.4958,S,,,Lam,Mr,Ali,3SLam,Ticket,Family,7,2
+827,0,3,male,,0,0,1601,56.4958,S,,,Lam,Mr,Len,3SLam,Ticket,Family,7,2
+377,1,3,female,22,0,0,C 7077,7.25,S,,,Landergren,Miss,Aurora Adelia,3SLandergren,,,1,1
+510,1,3,male,26,0,0,1601,56.4958,S,,,Lang,Mr,Fang,3SLang,Ticket,,7,1
+714,0,3,male,29,0,0,7545,9.4833,S,,,Larsson,Mr,August Viktor,3SLarsson,,Family,1,2
+232,0,3,male,29,0,0,347067,7.775,S,,,Larsson,Mr,Bengt Edvin,3SLarsson,,Family,1,2
+177,0,3,male,,3,1,4133,25.4667,S,,,Lefebre,Master,Henry Forbes,3SLefebre,Ticket,Family,4,4
+230,0,3,female,,3,1,4133,25.4667,S,,,Lefebre,Miss,Mathilde,3SLefebre,Ticket,Family,4,4
+410,0,3,female,,3,1,4133,25.4667,S,,,Lefebre,Miss,Ida,3SLefebre,Ticket,Family,4,4
+486,0,3,female,,3,1,4133,25.4667,S,,,Lefebre,Miss,Jeannie,3SLefebre,Ticket,Family,4,4
+637,0,3,male,32,0,0,STON/O 2. 3101292,7.925,S,,,Leinonen,Mr,Antti Gustaf,3SLeinonen,,,1,1
+180,0,3,male,36,0,0,LINE,0,S,,,Leonard,Mr,Lionel,3SLeonard,Ticket,,4,1
+812,0,3,male,39,0,0,A/4 48871,24.15,S,,,Lester,Mr,James,3SLester,Ticket,,2,1
+771,0,3,male,24,0,0,345781,9.5,S,,,Lievens,Mr,Rene Aime,3SLievens,,,1,1
+247,0,3,female,25,0,0,347071,7.775,S,,,Lindahl,Miss,Agda Thorilda Viktoria,3SLindahl,,,1,1
+277,0,3,female,45,0,0,347073,7.75,S,,,Lindblom,Miss,Augusta Charlotta,3SLindblom,,,1,1
+606,0,3,male,36,1,0,349910,15.55,S,,,Lindell,Mr,Edvard Bengtsson,3SLindell,,,1,1
+665,1,3,male,20,1,0,STON/O 2. 3101285,7.925,S,,,Lindqvist,Mr,Eino William,3SLindqvist,,,1,1
+170,0,3,male,28,0,0,1601,56.4958,S,,,Ling,Mr,Lee,3SLing,Ticket,,7,1
+254,0,3,male,30,1,0,A/5. 3336,16.1,S,,,Lobb,Mr,William Arthur,3SLobb,Ticket,Family,2,2
+618,0,3,female,26,1,0,A/5. 3336,16.1,S,,,Lobb,Mrs,William Arthur (Cordelia K Stanlick),3SLobb,Ticket,Family,2,2
+228,0,3,male,20.5,0,0,A/5 21173,7.25,S,,,Lovell,Mr,"John Hall (""Henry"")",3SLovell,,,1,1
+822,1,3,male,27,0,0,315098,8.6625,S,,,Lulic,Mr,Nikola,3SLulic,,,1,1
+632,0,3,male,51,0,0,347743,7.0542,S,,,Lundahl,Mr,Johan Svensson,3SLundahl,,,1,1
+128,1,3,male,24,0,0,C 17369,7.1417,S,,,Madsen,Mr,Fridtjof Arne,3SMadsen,,,1,1
+244,0,3,male,22,0,0,STON/O 2. 3101275,7.125,S,,,Maenpaa,Mr,Matti Alexanteri,3SMaenpaa,,,1,1
+465,0,3,male,,0,0,A/S 2816,8.05,S,,,Maisner,Mr,Simon,3SMaisner,,,1,1
+882,0,3,male,33,0,0,349257,7.8958,S,,,Markun,Mr,Johann,3SMarkun,,,1,1
+744,0,3,male,24,1,0,376566,16.1,S,,,McNamee,Mr,Neal,3SMcNamee,,,1,1
+565,0,3,female,,0,0,SOTON/O.Q. 392087,8.05,S,,,Meanwell,Miss,(Marion Ogden),3SMeanwell,,,1,1
+416,0,3,female,,0,0,343095,8.05,S,,,Meek,Mrs,Thomas (Annie Louise Rowley),3SMeek,,,1,1
+153,0,3,male,55.5,0,0,A.5. 11206,8.05,S,,,Meo,Mr,Alfonzo,3SMeo,,,1,1
+295,0,3,male,24,0,0,349233,7.8958,S,,,Mineff,Mr,Ivan,3SMineff,,,1,1
+106,0,3,male,28,0,0,349207,7.8958,S,,,Mionoff,Mr,Stoytcho,3SMionoff,,,1,1
+651,0,3,male,,0,0,349221,7.8958,S,,,Mitkoff,Mr,Mito,3SMitkoff,,,1,1
+76,0,3,male,25,0,0,348123,7.65,S,F,2,Moen,Mr,Sigurd Hansen,3SMoen,,,1,1
+752,1,3,male,6,0,1,392096,12.475,S,E,1,Moor,Master,Meier,3SMoor,Ticket,Family,2,2
+824,1,3,female,27,0,1,392096,12.475,S,E,1,Moor,Mrs,(Beila),3SMoor,Ticket,Family,2,2
+122,0,3,male,,0,0,A4. 54510,8.05,S,,,Moore,Mr,Leonard Charles,3SMoore,,,1,1
+462,0,3,male,34,0,0,364506,8.05,S,,,Morley,Mr,William,3SMorley,,,1,1
+108,1,3,male,,0,0,312991,7.775,S,,,Moss,Mr,Albert Johan,3SMoss,,,1,1
+78,0,3,male,,0,0,374746,8.05,S,,,Moutal,Mr,Rahamin Haim,3SMoutal,,,1,1
+590,0,3,male,,0,0,A./5. 3235,8.05,S,,,Murdlin,Mr,Joseph,3SMurdlin,,,1,1
+776,0,3,male,18,0,0,347078,7.75,S,,,Myhrman,Mr,Pehr Fabian Oliver Malkolm,3SMyhrman,,,1,1
+288,0,3,male,22,0,0,349206,7.8958,S,,,Naidenoff,Mr,Penko,3SNaidenoff,,,1,1
+740,0,3,male,,0,0,349218,7.8958,S,,,Nankoff,Mr,Minko,3SNankoff,,,1,1
+224,0,3,male,,0,0,349234,7.8958,S,,,Nenkoff,Mr,Christo,3SNenkoff,,,1,1
+316,1,3,female,26,0,0,347470,7.8542,S,,,Nilsson,Miss,Helmina Josefina,3SNilsson,,,1,1
+762,0,3,male,41,0,0,SOTON/O2 3101272,7.125,S,,,Nirva,Mr,Iisakki Antino Aijo,3SNirva,,,1,1
+401,1,3,male,39,0,0,STON/O 2. 3101289,7.925,S,,,Niskanen,Mr,Juha,3SNiskanen,,,1,1
+52,0,3,male,21,0,0,A/4. 39886,7.8,S,,,Nosworthy,Mr,Richard Cater,3SNosworthy,,,1,1
+142,1,3,female,22,0,0,347081,7.75,S,,,Nysten,Miss,Anna Sofia,3SNysten,,,1,1
+327,0,3,male,61,0,0,345364,6.2375,S,,,Nysveen,Mr,Johan Hansen,3SNysveen,,,1,1
+351,0,3,male,23,0,0,7267,9.225,S,,,Odahl,Mr,Nils Martin,3SOdahl,,,1,1
+555,1,3,female,22,0,0,347085,7.775,S,,,Ohman,Miss,Velin,3SOhman,,,1,1
+198,0,3,male,42,0,1,4579,8.4042,S,,,Olsen,Mr,Karl Siegwart Andreas,3SOlsen,,Family,1,3
+509,0,3,male,28,0,0,C 4001,22.525,S,,,Olsen,Mr,Henry Margido,3SOlsen,,Family,1,3
+155,0,3,male,,0,0,Fa 265302,7.3125,S,,,Olsen,Mr,Ole Martin,3SOlsen,,Family,1,3
+282,0,3,male,28,0,0,347464,7.8542,S,,,Olsson,Mr,Nils Johan Goransson,3SOlsson,,Family,1,2
+397,0,3,female,31,0,0,350407,7.8542,S,,,Olsson,Miss,Elina,3SOlsson,,Family,1,2
+683,0,3,male,20,0,0,6563,9.225,S,,,Olsvigen,Mr,Thor Anderson,3SOlsvigen,,,1,1
+726,0,3,male,20,0,0,315094,8.6625,S,,,Oreskovic,Mr,Luka,3SOreskovic,,Family,1,2
+405,0,3,female,20,0,0,315096,8.6625,S,,,Oreskovic,Miss,Marija,3SOreskovic,,Family,1,2
+139,0,3,male,16,0,0,7534,9.2167,S,,,Osen,Mr,Olaf Elon,3SOsen,Ticket,,2,1
+798,1,3,female,31,0,0,349244,8.6833,S,,,Osman,Mrs,Mara,3SOsman,,,1,1
+8,0,3,male,2,3,1,349909,21.075,S,,,Palsson,Master,Gosta Leonard,3SPalsson,Ticket,Family,4,4
+25,0,3,female,8,3,1,349909,21.075,S,,,Palsson,Miss,Torborg Danira,3SPalsson,Ticket,Family,4,4
+375,0,3,female,3,3,1,349909,21.075,S,,,Palsson,Miss,Stina Viola,3SPalsson,Ticket,Family,4,4
+568,0,3,female,29,0,4,349909,21.075,S,,,Palsson,Mrs,Nils (Alma Cornelia Berglund),3SPalsson,Ticket,Family,4,4
+51,0,3,male,7,4,1,3101295,39.6875,S,,,Panula,Master,Juha Niilo,3SPanula,Ticket,Family,6,6
+165,0,3,male,1,4,1,3101295,39.6875,S,,,Panula,Master,Eino Viljami,3SPanula,Ticket,Family,6,6
+267,0,3,male,16,4,1,3101295,39.6875,S,,,Panula,Mr,Ernesti Arvid,3SPanula,Ticket,Family,6,6
+639,0,3,female,41,0,5,3101295,39.6875,S,,,Panula,Mrs,Juha (Maria Emilia Ojala),3SPanula,Ticket,Family,6,6
+687,0,3,male,14,4,1,3101295,39.6875,S,,,Panula,Mr,Jaako Arnold,3SPanula,Ticket,Family,6,6
+825,0,3,male,2,4,1,3101295,39.6875,S,,,Panula,Master,Urho Abraham,3SPanula,Ticket,Family,6,6
+837,0,3,male,21,0,0,315097,8.6625,S,,,Pasic,Mr,Jakob,3SPasic,,,1,1
+576,0,3,male,19,0,0,358585,14.5,S,,,Patchett,Mr,George,3SPatchett,Ticket,,2,1
+520,0,3,male,32,0,0,349242,7.8958,S,,,Pavlovic,Mr,Stefo,3SPavlovic,,,1,1
+455,0,3,male,,0,0,A/5 2817,8.05,S,,,Peduzzi,Mr,Joseph,3SPeduzzi,,,1,1
+116,0,3,male,21,0,0,STON/O 2. 3101294,7.925,S,,,Pekoniemi,Mr,Edvard,3SPekoniemi,,,1,1
+213,0,3,male,22,0,0,A/5 21174,7.25,S,,,Perkin,Mr,John Henry,3SPerkin,,,1,1
+268,1,3,male,25,1,0,347083,7.775,S,,,Persson,Mr,Ernst Ulrik,3SPersson,,,1,1
+101,0,3,female,28,0,0,349245,7.8958,S,,,Petranec,Miss,Matilda,3SPetranec,,,1,1
+878,0,3,male,19,0,0,349212,7.8958,S,,,Petroff,Mr,Nedelio,3SPetroff,,Family,1,2
+102,0,3,male,,0,0,349215,7.8958,S,,,Petroff,Mr,"Pastcho (""Pentcho"")",3SPetroff,,Family,1,2
+443,0,3,male,25,1,0,347076,7.775,S,,,Petterson,Mr,Johan Emil,3SPetterson,,,1,1
+808,0,3,female,18,0,0,347087,7.775,S,,,Pettersson,Miss,Ellen Natalia,3SPettersson,,,1,1
+430,1,3,male,32,0,0,SOTON/O.Q. 392078,8.05,S,E,1,Pickard,Mr,Berk (Berk Trembisky),3SPickard,,,1,1
+385,0,3,male,,0,0,349227,7.8958,S,,,Plotcharsky,Mr,Vasil,3SPlotcharsky,,,1,1
+657,0,3,male,,0,0,349223,7.8958,S,,,Radeff,Mr,Alexander,3SRadeff,,,1,1
+251,0,3,male,,0,0,362316,7.25,S,,,Reed,Mr,James George,3SReed,,,1,1
+109,0,3,male,38,0,0,349249,7.8958,S,,,Rekic,Mr,Tido,3SRekic,,,1,1
+591,0,3,male,35,0,0,STON/O 2. 3101273,7.125,S,,,Rintamaki,Mr,Matti,3SRintamaki,,,1,1
+539,0,3,male,,0,0,364498,14.5,S,,,Risien,Mr,Samuel Beard,3SRisien,,,1,1
+133,0,3,female,47,1,0,A/5. 3337,14.5,S,,,Robins,Mrs,Alexander A (Grace Charity Laury),3SRobins,,,1,1
+46,0,3,male,,0,0,S.C./A.4. 23567,8.05,S,,,Rogers,Mr,William John,3SRogers,,,1,1
+668,0,3,male,,0,0,312993,7.775,S,,,Rommetvedt,Mr,Knud Paust,3SRommetvedt,,,1,1
+255,0,3,female,41,0,2,370129,20.2125,S,,,Rosblom,Mrs,Viktor (Helena Wilhelmina),3SRosblom,Ticket,Family,2,2
+425,0,3,male,18,1,1,370129,20.2125,S,,,Rosblom,Mr,Viktor Richard,3SRosblom,Ticket,Family,2,2
+483,0,3,male,50,0,0,A/5 3594,8.05,S,,,Rouse,Mr,Richard Henry,3SRouse,,,1,1
+575,0,3,male,16,0,0,A/4. 20589,8.05,S,,,Rush,Mr,Alfred George John,3SRush,,,1,1
+160,0,3,male,,8,2,CA. 2343,69.55,S,,,Sage,Master,Thomas Henry,3SSage,Ticket,Family,7,7
+181,0,3,female,,8,2,CA. 2343,69.55,S,,,Sage,Miss,Constance Gladys,3SSage,Ticket,Family,7,7
+202,0,3,male,,8,2,CA. 2343,69.55,S,,,Sage,Mr,Frederick,3SSage,Ticket,Family,7,7
+325,0,3,male,,8,2,CA. 2343,69.55,S,,,Sage,Mr,George John Jr,3SSage,Ticket,Family,7,7
+793,0,3,female,,8,2,CA. 2343,69.55,S,,,Sage,Miss,Stella Anna,3SSage,Ticket,Family,7,7
+847,0,3,male,,8,2,CA. 2343,69.55,S,,,Sage,Mr,Douglas Bullen,3SSage,Ticket,Family,7,7
+864,0,3,female,,8,2,CA. 2343,69.55,S,,,Sage,Miss,"Dorothy Edith ""Dolly""",3SSage,Ticket,Family,7,7
+107,1,3,female,21,0,0,343120,7.65,S,,,Salkjelsvik,Miss,Anna Kristine,3SSalkjelsvik,,,1,1
+529,0,3,male,39,0,0,3101296,7.925,S,,,Salonen,Mr,Johan Werner,3SSalonen,,,1,1
+11,1,3,female,4,1,1,PP 9549,16.7,S,G,1,Sandstrom,Miss,Marguerite Rut,3SSandstrom,Ticket,Family,2,2
+395,1,3,female,24,0,2,PP 9549,16.7,S,G,1,Sandstrom,Mrs,Hjalmar (Agnes Charlotta Bengtsson),3SSandstrom,Ticket,Family,2,2
+13,0,3,male,20,0,0,A/5. 2151,8.05,S,,,Saundercock,Mr,William Henry,3SSaundercock,,,1,1
+677,0,3,male,24.5,0,0,342826,8.05,S,,,Sawyer,Mr,Frederick Charles,3SSawyer,,,1,1
+411,0,3,male,,0,0,349222,7.8958,S,,,Sdycoff,Mr,Todor,3SSdycoff,,,1,1
+82,1,3,male,29,0,0,345779,9.5,S,,,Sheerlinck,Mr,Jan Baptist,3SSheerlinck,,,1,1
+498,0,3,male,,0,0,C.A. 6212,15.1,S,,,Shellard,Mr,Frederick William,3SShellard,,,1,1
+96,0,3,male,,0,0,374910,8.05,S,,,Shorney,Mr,Charles Joseph,3SShorney,,,1,1
+564,0,3,male,,0,0,SOTON/OQ 392082,8.05,S,,,Simmons,Mr,John,3SSimmons,,,1,1
+838,0,3,male,,0,0,392092,8.05,S,,,Sirota,Mr,Maurice,3SSirota,,,1,1
+562,0,3,male,40,0,0,349251,7.8958,S,,,Sivic,Mr,Husein,3SSivic,,,1,1
+174,0,3,male,21,0,0,STON/O 2. 3101280,7.925,S,,,Sivola,Mr,Antti Wilhelm,3SSivola,,,1,1
+787,1,3,female,18,0,0,3101265,7.4958,S,,,Sjoblom,Miss,Anna Sofia,3SSjoblom,,,1,1
+64,0,3,male,4,3,2,347088,27.9,S,,,Skoog,Master,Harald,3SSkoog,Ticket,Family,6,6
+168,0,3,female,45,1,4,347088,27.9,S,,,Skoog,Mrs,William (Anna Bernhardina Karlsson),3SSkoog,Ticket,Family,6,6
+361,0,3,male,40,1,4,347088,27.9,S,,,Skoog,Mr,Wilhelm,3SSkoog,Ticket,Family,6,6
+635,0,3,female,9,3,2,347088,27.9,S,,,Skoog,Miss,Mabel,3SSkoog,Ticket,Family,6,6
+643,0,3,female,2,3,2,347088,27.9,S,,,Skoog,Miss,Margit Elizabeth,3SSkoog,Ticket,Family,6,6
+820,0,3,male,10,3,2,347088,27.9,S,,,Skoog,Master,Karl Thorsten,3SSkoog,Ticket,Family,6,6
+602,0,3,male,,0,0,349214,7.8958,S,,,Slabenoff,Mr,Petco,3SSlabenoff,,,1,1
+88,0,3,male,,0,0,SOTON/OQ 392086,8.05,S,,,Slocovski,Mr,Selman Francis,3SSlocovski,,,1,1
+159,0,3,male,,0,0,315037,8.6625,S,,,Smiljanic,Mr,Mile,3SSmiljanic,,,1,1
+716,0,3,male,19,0,0,348124,7.65,S,F,2,Soholt,Mr,Peter Andreas Lauritz Andersen,3SSoholt,,,1,1
+489,0,3,male,30,0,0,A.5. 18509,8.05,S,,,Somerton,Mr,Francis William,3SSomerton,,,1,1
+77,0,3,male,,0,0,349208,7.8958,S,,,Staneff,Mr,Ivan,3SStaneff,,,1,1
+495,0,3,male,21,0,0,A/4 45380,8.05,S,,,Stanley,Mr,Edward Roland,3SStanley,,Family,1,2
+650,1,3,female,23,0,0,CA. 2314,7.55,S,,,Stanley,Miss,Amy Zillah Elsie,3SStanley,,Family,1,2
+567,0,3,male,19,0,0,349205,7.8958,S,,,Stoytcheff,Mr,Ilia,3SStoytcheff,,,1,1
+475,0,3,female,22,0,0,7553,9.8375,S,,,Strandberg,Miss,Ida Sofia,3SStrandberg,,,1,1
+745,1,3,male,31,0,0,STON/O 2. 3101288,7.925,S,,,Stranden,Mr,Juho,3SStranden,,,1,1
+206,0,3,female,2,0,1,347054,10.4625,S,G,1,Strom,Miss,Telma Matilda,3SStrom,Ticket,Family,2,2
+252,0,3,female,29,1,1,347054,10.4625,S,G,1,Strom,Mrs,Wilhelm (Elna Matilda Persson),3SStrom,Ticket,Family,2,2
+221,1,3,male,16,0,0,SOTON/OQ 392089,8.05,S,,,Sunderland,Mr,Victor Francis,3SSunderland,,,1,1
+415,1,3,male,44,0,0,STON/O 2. 3101269,7.925,S,,,Sundman,Mr,Johan Julian,3SSundman,,,1,1
+885,0,3,male,25,0,0,SOTON/OQ 392076,7.05,S,,,Sutehall,Mr,Henry Jr,3SSutehall,,,1,1
+852,0,3,male,74,0,0,347060,7.775,S,,,Svensson,Mr,Johan,3SSvensson,,Family,1,2
+500,0,3,male,24,0,0,350035,7.7958,S,,,Svensson,Mr,Olof,3SSvensson,,Family,1,2
+759,0,3,male,34,0,0,363294,8.05,S,,,Theobald,Mr,Thomas Leonard,3STheobald,,,1,1
+432,1,3,female,,1,0,376564,16.1,S,,,Thorneycroft,Mrs,Percival (Florence Kate White),3SThorneycroft,Ticket,Family,2,2
+640,0,3,male,,1,0,376564,16.1,S,,,Thorneycroft,Mr,Percival,3SThorneycroft,Ticket,Family,2,2
+383,0,3,male,32,0,0,STON/O 2. 3101293,7.925,S,,,Tikkanen,Mr,Juho,3STikkanen,,,1,1
+30,0,3,male,,0,0,349216,7.8958,S,,,Todoroff,Mr,Lalio,3STodoroff,,,1,1
+815,0,3,male,30.5,0,0,364499,8.05,S,,,Tomlin,Mr,Ernest Portage,3STomlin,,,1,1
+604,0,3,male,44,0,0,364511,8.05,S,,,Torber,Mr,Ernst William,3STorber,,,1,1
+272,1,3,male,25,0,0,LINE,0,S,,,Tornquist,Mr,William Henry,3STornquist,Ticket,,4,1
+190,0,3,male,36,0,0,349247,7.8958,S,,,Turcin,Mr,Stjepan,3STurcin,,,1,1
+678,1,3,female,18,0,0,4138,9.8417,S,,,Turja,Miss,Anna Sofia,3STurja,,,1,1
+484,1,3,female,63,0,0,4134,9.5875,S,,,Turkula,Mrs,(Hedwig),3STurkula,,,1,1
+154,0,3,male,40.5,0,2,A/5. 851,14.5,S,,,van Billiard,Mr,Austin Blyler,3Svan Billiard,,,1,1
+420,0,3,female,10,0,2,345773,24.15,S,,,Van Impe,Miss,Catharina,3SVan Impe,Ticket,Family,3,3
+596,0,3,male,36,1,1,345773,24.15,S,,,Van Impe,Mr,Jean Baptiste,3SVan Impe,Ticket,Family,3,3
+800,0,3,female,30,1,1,345773,24.15,S,,,Van Impe,Mrs,Jean Baptiste (Rosalie Paula Govaert),3SVan Impe,Ticket,Family,3,3
+869,0,3,male,,0,0,345777,9.5,S,,,van Melkebeke,Mr,Philemon,3Svan Melkebeke,,,1,1
+753,0,3,male,33,0,0,345780,9.5,S,,,Vande Velde,Mr,Johannes Joseph,3SVande Velde,,,1,1
+201,0,3,male,28,0,0,345770,9.5,S,,,Vande Walle,Mr,Nestor Cyriel,3SVande Walle,,,1,1
+356,0,3,male,28,0,0,345783,9.5,S,,,Vanden Steen,Mr,Leo Peter,3SVanden Steen,,,1,1
+874,0,3,male,47,0,0,345765,9,S,,,Vander Cruyssen,Mr,Victor,3SVander Cruyssen,,,1,1
+19,0,3,female,31,1,0,345763,18,S,,,Vander Planke,Mrs,Julius (Emelia Maria Vandemoortele),3SVander Planke,,Family,1,3
+39,0,3,female,18,2,0,345764,18,S,,,Vander Planke,Miss,Augusta Maria,3SVander Planke,Ticket,Family,2,3
+334,0,3,male,16,2,0,345764,18,S,,,Vander Planke,Mr,Leo Edmondus,3SVander Planke,Ticket,Family,2,3
+15,0,3,female,14,0,0,350406,7.8542,S,,,Vestrom,Miss,Hulda Amanda Adolfina,3SVestrom,,,1,1
+522,0,3,male,22,0,0,349252,7.8958,S,,,Vovk,Mr,Janko,3SVovk,,,1,1
+81,0,3,male,22,0,0,345767,9,S,,,Waelens,Mr,Achille,3SWaelens,,,1,1
+512,0,3,male,,0,0,SOTON/OQ 3101316,8.05,S,,,Webber,Mr,James,3SWebber,,,1,1
+407,0,3,male,51,0,0,347064,7.75,S,,,Widegren,Mr,Carl/Charles Peter,3SWidegren,,,1,1
+372,0,3,male,18,1,0,3101267,6.4958,S,,,Wiklund,Mr,Jakob Alfred,3SWiklund,,,1,1
+649,0,3,male,,0,0,S.O./P.P. 751,7.55,S,,,Willey,Mr,Edward,3SWilley,,,1,1
+736,0,3,male,28.5,0,0,54636,16.1,S,,,Williams,Mr,Leslie,3SWilliams,Ticket,Family,2,2
+305,0,3,male,,0,0,A/5 2466,8.05,S,,,Williams,Mr,"Howard Hugh ""Harry""",3SWilliams,,Family,1,2
+492,0,3,male,21,0,0,SOTON/OQ 3101317,7.25,S,,,Windelov,Mr,Einar,3SWindelov,,,1,1
+426,0,3,male,,0,0,A/4. 34244,7.25,S,,,Wiseman,Mr,Phillippe,3SWiseman,,,1,1
+423,0,3,male,29,0,0,315082,7.875,S,,,Zimmerman,Mr,Leo,3SZimmerman,,,1,1
